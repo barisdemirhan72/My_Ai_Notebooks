@@ -1,0 +1,1378 @@
+city,district,neighborhood,room,living room,area,age,floor,price
+İstanbul,Sarıyer, Rumeli Kavağı Mah.,4,1,160,49,3,500
+İstanbul,Beşiktaş, Levazım Mah.,3,1,110,40,3,600
+İstanbul,Şişli, Gülbahar Mah.,2,1,90,19,3,220
+İstanbul,Esenyurt, Cumhuriyet Mah.,1,1,82,8,8,220
+İstanbul,Sarıyer, Çayırbaşı Mah.,3,1,140,16,5,520
+İstanbul,Esenyurt, Barbaros Hayrettin Paşa Mah.,1,1,82,6,8,220
+İstanbul,Sarıyer, Ayazağa Mah.,1,1,85,10,2,650
+İstanbul,Sarıyer, Emirgan Mah.,1,1,110,57,1,900
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,172,1,3,1100
+İstanbul,Beşiktaş, Bebek Mah.,2,1,110,40,4,1350
+İstanbul,Pendik, Yenişehir Mah.,3,1,120,22,2,260
+İstanbul,Esenyurt, Aşık Veysel Mah.,3,1,145,26,2,235
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,70,2,0,250
+İstanbul,Beyoğlu, Kadımehmet Efendi Mah.,2,1,85,15,1,190
+İstanbul,Esenyurt, Süleymaniye Mah.,2,1,85,5,1,140
+İstanbul,Kartal, Yukarı Mah.,3,1,119,40,2,229
+İstanbul,Kağıthane, Gürsel Mah.,3,1,120,30,1,280
+İstanbul,Beşiktaş, Muradiye Mah.,3,1,120,35,5,500
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,75,0,0,300
+İstanbul,Çekmeköy, Merkez Mah.,1,1,54,10,0,170
+İstanbul,Büyükçekmece, Atatürk Mah.,2,1,90,15,5,180
+İstanbul,Şişli, Kuştepe Mah.,2,1,85,4,-3,240
+İstanbul,Kağıthane, Çağlayan Mah.,2,1,90,5,2,230
+İstanbul,Kağıthane, Hamidiye Mah.,1,1,60,5,6,420
+İstanbul,Şişli, Eskişehir Mah.,2,1,80,25,4,200
+İstanbul,Eyüpsultan, Silahtarağa Mah.,4,1,130,8,0,320
+İstanbul,Beşiktaş, Levent Mah.,2,1,130,35,1,650
+İstanbul,Kağıthane, Şirintepe Mah.,1,1,95,35,2,180
+İstanbul,Beyoğlu, Yenişehir Mah.,2,1,70,25,2,150
+İstanbul,Şişli, Meşrutiyet Mah.,3,1,110,28,2,495
+İstanbul,Bakırköy, Osmaniye Mah.,2,1,90,40,2,190
+İstanbul,Beşiktaş, Ortaköy Mah.,1,1,50,22,-1,150
+İstanbul,Beyoğlu, Yenişehir Mah.,2,1,95,25,2,200
+İstanbul,Beşiktaş, Nisbetiye Mah.,2,1,120,40,3,500
+İstanbul,Bağcılar, Demirkapı Mah.,3,1,120,27,1,125
+İstanbul,Bağcılar, Demirkapı Mah.,1,1,75,27,0,110
+İstanbul,Bağcılar, Demirkapı Mah.,1,1,75,12,1,120
+İstanbul,Küçükçekmece, İnönü Mah.,1,1,46,1,5,230
+İstanbul,Maltepe, Zümrütevler Mah.,3,1,130,25,5,260
+İstanbul,Sarıyer, Pınar Mah.,3,1,110,20,1,350
+İstanbul,Üsküdar, Çengelköy Mah.,3,1,130,28,4,420
+İstanbul,Ataşehir, Esatpaşa Mah.,1,1,70,3,2,300
+İstanbul,Tuzla, İstasyon Mah.,3,1,140,25,2,250
+İstanbul,Tuzla, Mescit Mah.,2,1,110,10,5,310
+İstanbul,Tuzla, Yayla Mah.,1,1,70,20,1,185
+İstanbul,Tuzla, Yayla Mah.,2,1,115,22,5,250
+İstanbul,Tuzla, İstasyon Mah.,2,1,90,5,2,320
+İstanbul,Tuzla, Aydınlı Mah.,1,1,70,14,5,210
+İstanbul,Tuzla, Mescit Mah.,1,1,70,10,1,220
+İstanbul,Tuzla, Postane Mah.,3,1,120,5,2,380
+İstanbul,Tuzla, Aydınlı Mah.,2,1,75,9,5,210
+İstanbul,Tuzla, İstasyon Mah.,3,1,120,8,1,350
+İstanbul,Tuzla, Postane Mah.,1,1,55,25,0,300
+İstanbul,Tuzla, Postane Mah.,3,1,120,5,2,350
+İstanbul,Tuzla, Aydınlı Mah.,2,1,130,30,3,150
+İstanbul,Tuzla, İstasyon Mah.,2,1,93,12,2,400
+İstanbul,Tuzla, Evliya Çelebi Mah.,3,1,115,23,5,200
+İstanbul,Tuzla, Aydıntepe Mah.,1,1,70,7,1,230
+İstanbul,Tuzla, Cami Mah.,1,1,70,12,0,350
+İstanbul,Tuzla, Postane Mah.,2,1,105,18,5,290
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,135,0,6,1000
+İstanbul,Esenyurt, Piri Reis Mah.,1,1,75,8,6,180
+İstanbul,Kadıköy, Suadiye Mah.,3,1,115,8,1,750
+İstanbul,Beşiktaş, Muradiye Mah.,3,1,135,35,2,410
+İstanbul,Eyüpsultan, Karadolap Mah.,2,1,95,7,1,310
+İstanbul,Çekmeköy, Ekşioğlu Mah.,2,1,70,8,2,285
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,1,1,80,30,1,250
+İstanbul,Kadıköy, Fenerbahçe Mah.,4,1,175,30,3,850
+İstanbul,Fatih, Topkapı Mah.,4,1,190,40,5,400
+İstanbul,Üsküdar, Bahçelievler Mah.,4,1,180,1,0,840
+İstanbul,Sarıyer, Yeniköy Mah.,3,1,120,35,2,500
+İstanbul,Şişli, Fulya Mah.,2,1,90,31,0,310
+İstanbul,Kadıköy, Caferağa Mah.,1,1,60,5,0,450
+İstanbul,Bakırköy, Şenlikköy Mah.,3,1,165,26,0,570
+İstanbul,Üsküdar, Çengelköy Mah.,2,1,124,2,0,550
+İstanbul,Kadıköy, Dumlupınar Mah.,2,1,103,7,2,545
+İstanbul,Gaziosmanpaşa, Yenidoğan Mah.,3,1,135,30,1,235
+İstanbul,Bağcılar, Fevzi Çakmak Mah.,4,1,150,12,5,550
+İstanbul,Bakırköy, Zuhuratbaba Mah.,4,1,175,26,5,510
+İstanbul,Maltepe, Altıntepe Mah.,3,1,120,35,2,300
+İstanbul,Büyükçekmece, Ekinoba Mah.,3,1,130,25,7,190
+İstanbul,Sarıyer, Ferahevler Mah.,2,1,70,25,5,510
+İstanbul,Kağıthane, Hürriyet Mah.,2,1,58,6,2,250
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,130,30,2,250
+İstanbul,Küçükçekmece, Tevfik Bey Mah.,1,1,48,7,3,200
+İstanbul,Kadıköy, 19 Mayıs Mah.,3,1,145,35,1,350
+İstanbul,Şişli, Mecidiyeköy Mah.,4,1,120,0,3,400
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,85,10,7,200
+İstanbul,Avcılar, Cihangir Mah.,2,1,90,30,1,165
+İstanbul,Pendik, Dumlupınar Mah.,1,1,70,8,0,195
+İstanbul,Kadıköy, Fenerbahçe Mah.,2,1,90,35,2,700
+İstanbul,Eyüpsultan, Güzeltepe Mah.,2,1,130,22,4,240
+İstanbul,Küçükçekmece, Beşyol Mah.,2,1,100,30,6,200
+İstanbul,Kadıköy, Sahrayı Cedit Mah.,2,1,110,30,1,390
+İstanbul,Beşiktaş, Kültür Mah.,3,1,120,35,-2,675
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,125,6,7,1100
+İstanbul,Gaziosmanpaşa, Merkez Mah.,2,1,110,25,2,265
+İstanbul,Gaziosmanpaşa, Karayolları Mah.,2,1,95,12,2,300
+İstanbul,Beşiktaş, Mecidiye Mah.,3,1,115,30,2,360
+İstanbul,Kağıthane, Emniyet Evleri Mah.,1,1,75,12,3,180
+İstanbul,Fatih, Seyyid Ömer Mah.,1,1,75,40,2,170
+İstanbul,Başakşehir, Bahçeşehir 2. Kısım Mah.,3,1,180,23,2,320
+İstanbul,Kadıköy, Feneryolu Mah.,2,1,102,0,4,650
+İstanbul,Pendik, Kaynarca Mah.,1,1,67,10,0,180
+İstanbul,Kadıköy, Suadiye Mah.,3,1,115,8,1,750
+İstanbul,Zeytinburnu, Nuripaşa Mah.,2,1,65,16,0,150
+İstanbul,Esenyurt, Fatih Mah.,2,1,90,9,2,130
+İstanbul,Maltepe, Zümrütevler Mah.,2,1,90,6,1,230
+İstanbul,Fatih, Silivrikapı Mah.,2,1,75,40,3,210
+İstanbul,Kartal, Atalar Mah.,3,1,145,25,4,280
+İstanbul,Üsküdar, Bulgurlu Mah.,3,1,150,25,3,700
+İstanbul,Çekmeköy, Güngören Mah.,3,1,120,10,2,300
+İstanbul,Maltepe, Küçükyalı Mah.,2,1,130,28,5,600
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,90,30,2,200
+İstanbul,Beylikdüzü, Yakuplu Mah.,3,1,135,25,1,180
+İstanbul,Bahçelievler, Soğanlı Mah.,2,1,75,5,0,180
+İstanbul,Beykoz, Acarlar Mah.,3,1,180,14,2,900
+İstanbul,Sultangazi, 50. Yıl Mah.,2,1,130,16,2,190
+İstanbul,Bakırköy, Osmaniye Mah.,1,1,195,10,1,950
+İstanbul,Şişli, Mecidiyeköy Mah.,1,1,65,0,3,400
+İstanbul,Sancaktepe, Fatih Mah.,3,1,100,21,6,180
+İstanbul,Bakırköy, Yeşilköy Mah.,3,1,190,38,2,550
+İstanbul,Kadıköy, Kozyatağı Mah.,2,1,125,33,3,400
+İstanbul,Şişli, Paşa Mah.,2,1,95,15,4,425
+İstanbul,Kağıthane, Nurtepe Mah.,3,1,170,25,4,205
+İstanbul,Kağıthane, Ortabayır Mah.,1,1,53,10,7,280
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,165,10,1,650
+İstanbul,Beylikdüzü, Cumhuriyet Mah.,2,1,150,8,5,250
+İstanbul,Beşiktaş, Abbasağa Mah.,1,1,68,45,1,280
+İstanbul,Pendik, Esenler Mah.,1,1,70,8,2,220
+İstanbul,Avcılar, Gümüşpala Mah.,3,1,120,7,0,245
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,125,28,3,250
+İstanbul,Üsküdar, Yavuztürk Mah.,3,1,130,19,3,350
+İstanbul,Sarıyer, Poligon Mah.,3,1,118,28,2,450
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,80,28,3,140
+İstanbul,Kadıköy, Zühtüpaşa Mah.,3,1,110,19,3,650
+İstanbul,Sarıyer, Kireçburnu Mah.,2,1,85,28,2,250
+İstanbul,Sultangazi, Yunus Emre Mah.,1,1,75,3,5,350
+İstanbul,Avcılar, Cihangir Mah.,2,1,105,23,2,170
+İstanbul,Bakırköy, Zuhuratbaba Mah.,2,1,85,1,1,425
+İstanbul,Ataşehir, İçerenköy Mah.,1,1,55,19,1,210
+İstanbul,Beyoğlu, Çatma Mescit Mah.,2,1,100,30,1,295
+İstanbul,Sarıyer, Rumeli Kavağı Mah.,4,1,160,49,3,500
+İstanbul,Beşiktaş, Levazım Mah.,3,1,110,40,3,600
+İstanbul,Şişli, Gülbahar Mah.,2,1,90,19,3,220
+İstanbul,Esenyurt, Cumhuriyet Mah.,1,1,82,8,8,220
+İstanbul,Sarıyer, Çayırbaşı Mah.,3,1,140,16,5,520
+İstanbul,Esenyurt, Barbaros Hayrettin Paşa Mah.,1,1,82,6,8,220
+İstanbul,Sarıyer, Ayazağa Mah.,1,1,85,10,2,650
+İstanbul,Sarıyer, Emirgan Mah.,1,1,110,57,1,900
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,172,1,3,1100
+İstanbul,Beşiktaş, Bebek Mah.,2,1,110,40,4,1350
+İstanbul,Pendik, Yenişehir Mah.,3,1,120,22,2,260
+İstanbul,Esenyurt, Aşık Veysel Mah.,3,1,145,26,2,235
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,70,2,0,250
+İstanbul,Beyoğlu, Kadımehmet Efendi Mah.,2,1,85,15,1,190
+İstanbul,Esenyurt, Süleymaniye Mah.,2,1,85,5,1,140
+İstanbul,Kartal, Yukarı Mah.,3,1,119,40,2,229
+İstanbul,Kağıthane, Gürsel Mah.,3,1,120,30,1,280
+İstanbul,Beşiktaş, Muradiye Mah.,3,1,120,35,5,500
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,75,0,0,300
+İstanbul,Çekmeköy, Merkez Mah.,1,1,54,10,0,170
+İstanbul,Büyükçekmece, Atatürk Mah.,2,1,90,15,5,180
+İstanbul,Şişli, Kuştepe Mah.,2,1,85,4,-3,240
+İstanbul,Kağıthane, Çağlayan Mah.,2,1,90,5,2,230
+İstanbul,Kağıthane, Hamidiye Mah.,1,1,60,5,6,420
+İstanbul,Şişli, Eskişehir Mah.,2,1,80,25,4,200
+İstanbul,Eyüpsultan, Silahtarağa Mah.,4,1,130,8,0,320
+İstanbul,Beşiktaş, Levent Mah.,2,1,130,35,1,650
+İstanbul,Kağıthane, Şirintepe Mah.,1,1,95,35,2,180
+İstanbul,Beyoğlu, Yenişehir Mah.,2,1,70,25,2,150
+İstanbul,Şişli, Meşrutiyet Mah.,3,1,110,28,2,495
+İstanbul,Bakırköy, Osmaniye Mah.,2,1,90,40,2,190
+İstanbul,Beşiktaş, Ortaköy Mah.,1,1,50,22,-1,150
+İstanbul,Beyoğlu, Yenişehir Mah.,2,1,95,25,2,200
+İstanbul,Beşiktaş, Nisbetiye Mah.,2,1,120,40,3,500
+İstanbul,Bağcılar, Demirkapı Mah.,3,1,120,27,1,125
+İstanbul,Bağcılar, Demirkapı Mah.,1,1,75,27,0,110
+İstanbul,Bağcılar, Demirkapı Mah.,1,1,75,12,1,120
+İstanbul,Küçükçekmece, İnönü Mah.,1,1,46,1,5,230
+İstanbul,Maltepe, Zümrütevler Mah.,3,1,130,25,5,260
+İstanbul,Sarıyer, Pınar Mah.,3,1,110,20,1,350
+İstanbul,Üsküdar, Çengelköy Mah.,3,1,130,28,4,420
+İstanbul,Ataşehir, Esatpaşa Mah.,1,1,70,3,2,300
+İstanbul,Tuzla, İstasyon Mah.,3,1,140,25,2,250
+İstanbul,Tuzla, Mescit Mah.,2,1,110,10,5,310
+İstanbul,Tuzla, Yayla Mah.,1,1,70,20,1,185
+İstanbul,Tuzla, Yayla Mah.,2,1,115,22,5,250
+İstanbul,Tuzla, İstasyon Mah.,2,1,90,5,2,320
+İstanbul,Tuzla, Aydınlı Mah.,1,1,70,14,5,210
+İstanbul,Tuzla, Mescit Mah.,1,1,70,10,1,220
+İstanbul,Tuzla, Postane Mah.,3,1,120,5,2,380
+İstanbul,Tuzla, Aydınlı Mah.,2,1,75,9,5,210
+İstanbul,Tuzla, İstasyon Mah.,3,1,120,8,1,350
+İstanbul,Tuzla, Postane Mah.,1,1,55,25,0,300
+İstanbul,Tuzla, Postane Mah.,3,1,120,5,2,350
+İstanbul,Tuzla, Aydınlı Mah.,2,1,130,30,3,150
+İstanbul,Tuzla, İstasyon Mah.,2,1,93,12,2,400
+İstanbul,Tuzla, Evliya Çelebi Mah.,3,1,115,23,5,200
+İstanbul,Tuzla, Aydıntepe Mah.,1,1,70,7,1,230
+İstanbul,Tuzla, Cami Mah.,1,1,70,12,0,350
+İstanbul,Tuzla, Postane Mah.,2,1,105,18,5,290
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,135,0,6,1000
+İstanbul,Esenyurt, Piri Reis Mah.,1,1,75,8,6,180
+İstanbul,Kadıköy, Suadiye Mah.,3,1,115,8,1,750
+İstanbul,Beşiktaş, Muradiye Mah.,3,1,135,35,2,410
+İstanbul,Eyüpsultan, Karadolap Mah.,2,1,95,7,1,310
+İstanbul,Çekmeköy, Ekşioğlu Mah.,2,1,70,8,2,285
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,1,1,80,30,1,250
+İstanbul,Kadıköy, Fenerbahçe Mah.,4,1,175,30,3,850
+İstanbul,Fatih, Topkapı Mah.,4,1,190,40,5,400
+İstanbul,Üsküdar, Bahçelievler Mah.,4,1,180,1,0,840
+İstanbul,Sarıyer, Yeniköy Mah.,3,1,120,35,2,500
+İstanbul,Şişli, Fulya Mah.,2,1,90,31,0,310
+İstanbul,Kadıköy, Caferağa Mah.,1,1,60,5,0,450
+İstanbul,Bakırköy, Şenlikköy Mah.,3,1,165,26,0,570
+İstanbul,Üsküdar, Çengelköy Mah.,2,1,124,2,0,550
+İstanbul,Kadıköy, Dumlupınar Mah.,2,1,103,7,2,545
+İstanbul,Gaziosmanpaşa, Yenidoğan Mah.,3,1,135,30,1,235
+İstanbul,Bağcılar, Fevzi Çakmak Mah.,4,1,150,12,5,550
+İstanbul,Bakırköy, Zuhuratbaba Mah.,4,1,175,26,5,510
+İstanbul,Maltepe, Altıntepe Mah.,3,1,120,35,2,300
+İstanbul,Büyükçekmece, Ekinoba Mah.,3,1,130,25,7,190
+İstanbul,Sarıyer, Ferahevler Mah.,2,1,70,25,5,510
+İstanbul,Kağıthane, Hürriyet Mah.,2,1,58,6,2,250
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,130,30,2,250
+İstanbul,Küçükçekmece, Tevfik Bey Mah.,1,1,48,7,3,200
+İstanbul,Kadıköy, 19 Mayıs Mah.,3,1,145,35,1,350
+İstanbul,Şişli, Mecidiyeköy Mah.,4,1,120,0,3,400
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,85,10,7,200
+İstanbul,Avcılar, Cihangir Mah.,2,1,90,30,1,165
+İstanbul,Pendik, Dumlupınar Mah.,1,1,70,8,0,195
+İstanbul,Kadıköy, Fenerbahçe Mah.,2,1,90,35,2,700
+İstanbul,Eyüpsultan, Güzeltepe Mah.,2,1,130,22,4,240
+İstanbul,Küçükçekmece, Beşyol Mah.,2,1,100,30,6,200
+İstanbul,Kadıköy, Sahrayı Cedit Mah.,2,1,110,30,1,390
+İstanbul,Beşiktaş, Kültür Mah.,3,1,120,35,-2,675
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,125,6,7,1100
+İstanbul,Gaziosmanpaşa, Merkez Mah.,2,1,110,25,2,265
+İstanbul,Gaziosmanpaşa, Karayolları Mah.,2,1,95,12,2,300
+İstanbul,Beşiktaş, Mecidiye Mah.,3,1,115,30,2,360
+İstanbul,Kağıthane, Emniyet Evleri Mah.,1,1,75,12,3,180
+İstanbul,Fatih, Seyyid Ömer Mah.,1,1,75,40,2,170
+İstanbul,Başakşehir, Bahçeşehir 2. Kısım Mah.,3,1,180,23,2,320
+İstanbul,Kadıköy, Feneryolu Mah.,2,1,102,0,4,650
+İstanbul,Pendik, Kaynarca Mah.,1,1,67,10,0,180
+İstanbul,Kadıköy, Suadiye Mah.,3,1,115,8,1,750
+İstanbul,Zeytinburnu, Nuripaşa Mah.,2,1,65,16,0,150
+İstanbul,Esenyurt, Fatih Mah.,2,1,90,9,2,130
+İstanbul,Maltepe, Zümrütevler Mah.,2,1,90,6,1,230
+İstanbul,Fatih, Silivrikapı Mah.,2,1,75,40,3,210
+İstanbul,Kartal, Atalar Mah.,3,1,145,25,4,280
+İstanbul,Üsküdar, Bulgurlu Mah.,3,1,150,25,3,700
+İstanbul,Çekmeköy, Güngören Mah.,3,1,120,10,2,300
+İstanbul,Maltepe, Küçükyalı Mah.,2,1,130,28,5,600
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,90,30,2,200
+İstanbul,Beylikdüzü, Yakuplu Mah.,3,1,135,25,1,180
+İstanbul,Bahçelievler, Soğanlı Mah.,2,1,75,5,0,180
+İstanbul,Beykoz, Acarlar Mah.,3,1,180,14,2,900
+İstanbul,Sultangazi, 50. Yıl Mah.,2,1,130,16,2,190
+İstanbul,Bakırköy, Osmaniye Mah.,1,1,195,10,1,950
+İstanbul,Şişli, Mecidiyeköy Mah.,1,1,65,0,3,400
+İstanbul,Sancaktepe, Fatih Mah.,3,1,100,21,6,180
+İstanbul,Bakırköy, Yeşilköy Mah.,3,1,190,38,2,550
+İstanbul,Kadıköy, Kozyatağı Mah.,2,1,125,33,3,400
+İstanbul,Şişli, Paşa Mah.,2,1,95,15,4,425
+İstanbul,Kağıthane, Nurtepe Mah.,3,1,170,25,4,205
+İstanbul,Kağıthane, Ortabayır Mah.,1,1,53,10,7,280
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,165,10,1,650
+İstanbul,Beylikdüzü, Cumhuriyet Mah.,2,1,150,8,5,250
+İstanbul,Beşiktaş, Abbasağa Mah.,1,1,68,45,1,280
+İstanbul,Pendik, Esenler Mah.,1,1,70,8,2,220
+İstanbul,Avcılar, Gümüşpala Mah.,3,1,120,7,0,245
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,125,28,3,250
+İstanbul,Üsküdar, Yavuztürk Mah.,3,1,130,19,3,350
+İstanbul,Sarıyer, Poligon Mah.,3,1,118,28,2,450
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,80,28,3,140
+İstanbul,Kadıköy, Zühtüpaşa Mah.,3,1,110,19,3,650
+İstanbul,Sarıyer, Kireçburnu Mah.,2,1,85,28,2,250
+İstanbul,Sultangazi, Yunus Emre Mah.,1,1,75,3,5,350
+İstanbul,Avcılar, Cihangir Mah.,2,1,105,23,2,170
+İstanbul,Bakırköy, Zuhuratbaba Mah.,2,1,85,1,1,425
+İstanbul,Ataşehir, İçerenköy Mah.,1,1,55,19,1,210
+İstanbul,Beyoğlu, Çatma Mescit Mah.,2,1,100,30,1,295
+İstanbul,Bayrampaşa, Altıntepsi Mah.,3,1,110,25,5,200
+İstanbul,Bahçelievler, Cumhuriyet Mah.,1,1,75,25,1,100
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,115,31,1,300
+İstanbul,Beşiktaş, Abbasağa Mah.,2,1,95,7,0,350
+İstanbul,Şişli, Fulya Mah.,1,1,80,4,1,500
+İstanbul,Üsküdar, Zeynep Kamil Mah.,2,1,90,26,1,240
+İstanbul,Kağıthane, Gültepe Mah.,1,1,65,2,2,270
+İstanbul,Beşiktaş, Levazım Mah.,3,1,140,40,7,800
+İstanbul,Kağıthane, Harmantepe Mah.,2,1,80,5,2,250
+İstanbul,Beyoğlu, Firuzağa Mah.,1,1,75,14,0,300
+İstanbul,Bayrampaşa, Muratpaşa Mah.,2,1,75,6,1,220
+İstanbul,Silivri, Yeni Mah.,3,1,140,0,3,250
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,120,40,3,300
+İstanbul,Beşiktaş, Levazım Mah.,2,1,130,36,1,780
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,1,1,75,24,5,150
+İstanbul,Beylikdüzü, Gürpınar Mah.,3,1,130,20,5,130
+İstanbul,Zeytinburnu, Nuripaşa Mah.,2,1,95,10,3,250
+İstanbul,Kadıköy, Hasanpaşa Mah.,2,1,80,12,-1,275
+İstanbul,Şişli, Mecidiyeköy Mah.,1,1,45,7,0,170
+İstanbul,Kadıköy, Dumlupınar Mah.,2,1,95,7,2,600
+İstanbul,Zeytinburnu, Yenidoğan Mah.,2,1,100,24,3,250
+İstanbul,Çekmeköy, Güngören Mah.,2,1,100,1,5,450
+İstanbul,Şişli, Fulya Mah.,2,1,80,45,0,240
+İstanbul,Sarıyer, Ferahevler Mah.,3,1,125,29,1,350
+İstanbul,Çekmeköy, Kirazlıdere Mah.,3,1,174,0,5,850
+İstanbul,Beyoğlu, Cihangir Mah.,2,1,80,35,0,400
+İstanbul,Fatih, Seyyid Ömer Mah.,2,1,90,40,4,250
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,2,1,75,6,0,150
+İstanbul,Fatih, Seyyid Ömer Mah.,2,1,75,42,0,120
+İstanbul,Esenyurt, Süleymaniye Mah.,1,1,75,8,1,90
+İstanbul,Fatih, Haseki Sultan Mah.,1,1,65,40,2,200
+İstanbul,Şişli, Gülbahar Mah.,2,1,75,23,1,200
+İstanbul,Beyoğlu, Kuloğlu Mah.,2,1,75,35,3,250
+İstanbul,Şişli, Gülbahar Mah.,3,1,125,20,1,300
+İstanbul,Kadıköy, Fenerbahçe Mah.,3,1,140,35,1,650
+İstanbul,Şişli, Ergenekon Mah.,1,1,50,45,0,155
+İstanbul,Şişli, Gülbahar Mah.,1,1,60,15,-1,200
+İstanbul,Şişli, Fulya Mah.,3,1,105,15,4,300
+İstanbul,Bayrampaşa, Orta Mah.,2,1,100,35,1,250
+İstanbul,Maltepe, Küçükyalı Mah.,1,1,55,28,2,350
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,128,7,5,440
+İstanbul,Bayrampaşa, Orta Mah.,2,1,85,17,1,270
+İstanbul,Avcılar, Mustafa Kemal Paşa Mah.,3,1,120,18,4,140
+İstanbul,Kağıthane, Çeliktepe Mah.,2,1,85,20,2,250
+İstanbul,Şişli, Gülbahar Mah.,2,1,65,7,3,170
+İstanbul,Şişli, Teşvikiye Mah.,1,1,60,26,1,450
+İstanbul,Fatih, Seyyid Ömer Mah.,3,1,120,40,2,230
+İstanbul,Bahçelievler, Zafer Mah.,2,1,90,3,2,280
+İstanbul,Bahçelievler, Cumhuriyet Mah.,2,1,90,30,2,200
+İstanbul,Kağıthane, Seyrantepe Mah.,1,1,65,11,4,280
+İstanbul,Şişli, Halide Edip Adıvar Mah.,2,1,120,25,2,280
+İstanbul,Bahçelievler, Yenibosna Merkez Mah.,2,1,88,20,1,250
+İstanbul,Avcılar, Cihangir Mah.,2,1,95,7,1,190
+İstanbul,Sultanbeyli, Hasanpaşa Mah.,1,1,65,5,2,195
+İstanbul,Beyoğlu, Tomtom Mah.,1,1,45,30,2,280
+İstanbul,Bağcılar, Demirkapı Mah.,3,1,110,0,3,310
+İstanbul,Kağıthane, Harmantepe Mah.,2,1,90,30,3,160
+İstanbul,Tuzla, Yayla Mah.,1,1,70,20,1,185
+İstanbul,Kağıthane, Harmantepe Mah.,1,1,60,10,2,135
+İstanbul,Tuzla, Yayla Mah.,2,1,115,22,5,250
+İstanbul,Üsküdar, Valide-i Atik Mah.,2,1,85,0,3,355
+İstanbul,Kartal, Hürriyet Mah.,2,1,100,22,4,150
+İstanbul,Ümraniye, İnkılap Mah.,2,1,70,10,1,275
+İstanbul,Bayrampaşa, Kartaltepe Mah.,1,1,75,35,1,150
+İstanbul,Beşiktaş, Nisbetiye Mah.,4,1,200,32,5,800
+İstanbul,Beşiktaş, Dikilitaş Mah.,3,1,120,12,1,550
+İstanbul,Kartal, Soğanlık Yeni Mah.,3,1,110,1,1,320
+İstanbul,Üsküdar, Murat Reis Mah.,2,1,65,0,0,320
+İstanbul,Eyüpsultan, Merkez Mah.,2,1,65,5,1,200
+İstanbul,Beşiktaş, Ortaköy Mah.,2,1,100,35,4,370
+İstanbul,Fatih, Silivrikapı Mah.,2,1,85,40,3,170
+İstanbul,Fatih, Seyyid Ömer Mah.,2,1,110,45,5,225
+İstanbul,Küçükçekmece, Gültepe Mah.,2,1,100,5,2,280
+İstanbul,Kağıthane, Çağlayan Mah.,2,1,80,2,4,300
+İstanbul,Zeytinburnu, Seyitnizam Mah.,2,1,85,30,1,170
+İstanbul,Esenyurt, Gökevler Mah.,3,1,140,10,8,250
+İstanbul,Beşiktaş, Yıldız Mah.,2,1,110,31,2,750
+İstanbul,Ataşehir, İçerenköy Mah.,1,1,55,10,0,170
+İstanbul,Bahçelievler, Soğanlı Mah.,2,1,90,35,0,180
+İstanbul,Beşiktaş, Dikilitaş Mah.,1,1,60,0,4,400
+İstanbul,Küçükçekmece, Yeşilova Mah.,2,1,115,24,5,180
+İstanbul,Fatih, Molla Gürani Mah.,2,1,83,39,4,180
+İstanbul,Pendik, Fevzi Çakmak Mah.,3,1,110,25,2,190
+İstanbul,Beyoğlu, Kalyoncu Kulluğu Mah.,2,1,112,25,3,220
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,1,1,75,28,0,1195
+İstanbul,Zeytinburnu, Yeşiltepe Mah.,2,1,80,27,0,145
+İstanbul,Arnavutköy, Hadımköy Mah.,3,1,132,16,2,230
+İstanbul,Kadıköy, Hasanpaşa Mah.,2,1,90,15,4,550
+İstanbul,Avcılar, Mustafa Kemal Paşa Mah.,2,1,100,25,3,160
+İstanbul,Eyüpsultan, Yeşilpınar Mah.,2,1,80,11,0,185
+İstanbul,Beyoğlu, Kalyoncu Kulluğu Mah.,2,1,90,30,2,220
+İstanbul,Kağıthane, Sultan Selim Mah.,3,1,120,40,5,250
+İstanbul,Pendik, Fevzi Çakmak Mah.,2,1,85,8,7,250
+İstanbul,Fatih, Seyyid Ömer Mah.,2,1,75,38,1,170
+İstanbul,Bakırköy, Yeşilköy Mah.,3,1,140,45,1,470
+İstanbul,Küçükçekmece, Yeni Mahalle Mah.,1,1,60,30,3,175
+İstanbul,Şişli, Teşvikiye Mah.,1,1,45,10,1,350
+İstanbul,Bahçelievler, Soğanlı Mah.,1,1,70,0,0,210
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,125,12,7,850
+İstanbul,Kağıthane, Harmantepe Mah.,1,1,75,5,2,130
+İstanbul,Gaziosmanpaşa, Yeni Mahalle Mah.,3,1,130,35,3,200
+İstanbul,Beyoğlu, Hacıahmet Mah.,3,1,105,45,2,300
+İstanbul,Ümraniye, Esenşehir Mah.,2,1,90,25,1,205
+İstanbul,Üsküdar, Zeynep Kamil Mah.,2,1,85,35,4,245
+İstanbul,Kağıthane, Harmantepe Mah.,1,1,60,30,1,180
+İstanbul,Gaziosmanpaşa, Yeni Mahalle Mah.,2,1,85,25,1,150
+İstanbul,Kağıthane, Telsizler Mah.,2,1,80,0,2,250
+İstanbul,Beykoz, Kanlıca Mah.,3,1,100,30,5,400
+İstanbul,Kağıthane, Yeşilce Mah.,2,1,73,15,2,240
+İstanbul,Esenyurt, Yeşilkent Mah.,2,1,80,6,1,135
+İstanbul,Kağıthane, Nurtepe Mah.,2,1,90,20,1,160
+İstanbul,Esenyurt, Cumhuriyet Mah.,1,1,70,8,5,175
+İstanbul,Kadıköy, Suadiye Mah.,3,1,140,5,2,850
+İstanbul,Beyoğlu, Sütlüce Mah.,2,1,110,27,5,370
+İstanbul,Bakırköy, Cevizlik Mah.,2,1,85,40,2,250
+İstanbul,Pendik, Güzelyalı Mah.,3,1,115,15,2,260
+İstanbul,Küçükçekmece, İstasyon Mah.,2,1,90,3,8,235
+İstanbul,Üsküdar, Murat Reis Mah.,2,1,80,40,5,200
+İstanbul,Ümraniye, Namık Kemal Mah.,3,1,130,16,3,400
+İstanbul,Güngören, Merkez Mah.,2,1,120,30,5,210
+İstanbul,Sarıyer, Cumhuriyet Mah.,3,1,135,29,0,400
+İstanbul,Kadıköy, Fenerbahçe Mah.,1,1,60,0,1,550
+İstanbul,Beylikdüzü, Adnan Kahveci Mah.,3,1,180,25,1,280
+İstanbul,Şişli, Paşa Mah.,2,1,95,35,2,250
+İstanbul,Fatih, Derviş Ali Mah.,1,1,65,40,2,150
+İstanbul,Beyoğlu, Kocatepe Mah.,1,1,50,50,0,150
+İstanbul,Kağıthane, Çeliktepe Mah.,3,1,120,35,4,300
+İstanbul,Kağıthane, Yeşilce Mah.,2,1,93,25,1,150
+İstanbul,Zeytinburnu, Nuripaşa Mah.,2,1,75,29,6,160
+İstanbul,Kadıköy, Sahrayı Cedit Mah.,3,1,120,7,4,650
+İstanbul,Fatih, Topkapı Mah.,2,1,90,29,2,215
+İstanbul,Ataşehir, İçerenköy Mah.,2,1,90,28,2,200
+İstanbul,Beşiktaş, Türkali Mah.,3,1,100,35,-1,300
+İstanbul,Fatih, Silivrikapı Mah.,1,1,70,40,3,170
+İstanbul,Beyoğlu, Hacıahmet Mah.,1,1,105,45,2,270
+İstanbul,Sancaktepe, Meclis Mah.,2,1,85,0,2,280
+İstanbul,Kadıköy, Erenköy Mah.,3,1,108,0,1,655
+İstanbul,Ümraniye, Esenkent Mah.,2,1,85,15,7,270
+İstanbul,Sancaktepe, İnönü Mah.,2,1,105,13,1,280
+İstanbul,Şişli, Gülbahar Mah.,2,1,70,0,3,200
+İstanbul,Üsküdar, İcadiye Mah.,1,1,70,15,2,250
+İstanbul,Sarıyer, Cumhuriyet Mah.,3,1,190,26,3,460
+İstanbul,Bayrampaşa, Kartaltepe Mah.,2,1,75,25,1,200
+İstanbul,Zeytinburnu, Telsiz Mah.,2,1,110,25,4,250
+İstanbul,Şişli, Gülbahar Mah.,1,1,71,20,3,180
+İstanbul,Kağıthane, Çeliktepe Mah.,2,1,110,16,3,350
+İstanbul,Üsküdar, İcadiye Mah.,2,1,95,0,2,450
+İstanbul,Şişli, Harbiye Mah.,1,1,90,40,5,400
+İstanbul,Şişli, Gülbahar Mah.,1,1,60,15,4,235
+İstanbul,Beşiktaş, Mecidiye Mah.,2,1,100,35,2,290
+İstanbul,Fatih, Seyyid Ömer Mah.,1,1,75,45,1,155
+İstanbul,Sarıyer, Kireçburnu Mah.,2,1,120,30,0,950
+İstanbul,Beylikdüzü, Adnan Kahveci Mah.,1,1,95,15,1,175
+İstanbul,Şişli, Duatepe Mah.,2,1,80,38,1,250
+İstanbul,Şişli, Yayla Mah.,2,1,80,30,0,180
+İstanbul,Üsküdar, Kuzguncuk Mah.,1,1,75,40,-1,180
+İstanbul,Bağcılar, Yıldıztepe Mah.,2,1,95,30,1,160
+İstanbul,Tuzla, İstasyon Mah.,2,1,90,5,2,320
+İstanbul,Küçükçekmece, Sultan Murat Mah.,3,1,100,20,5,180
+İstanbul,Pendik, Güllü Bağlar Mah.,2,1,89,1,5,255
+İstanbul,Sarıyer, Büyükdere Mah.,2,1,100,40,3,350
+İstanbul,Maltepe, Feyzullah Mah.,3,1,125,35,3,330
+İstanbul,Maltepe, Çınar Mah.,2,1,85,0,-1,320
+İstanbul,Küçükçekmece, İnönü Mah.,1,1,60,0,2,200
+İstanbul,Maltepe, İdealtepe Mah.,2,1,120,0,5,460
+İstanbul,Kadıköy, Fenerbahçe Mah.,1,1,60,5,1,530
+İstanbul,Kartal, Soğanlık Yeni Mah.,1,1,75,7,2,370
+İstanbul,Esenyurt, Yeşilkent Mah.,3,1,130,12,5,250
+İstanbul,Pendik, Güzelyalı Mah.,3,1,125,13,2,380
+İstanbul,Maltepe, Fındıklı Mah.,3,1,120,15,3,240
+İstanbul,Esenyurt, Mehmet Akif Ersoy Mah.,2,1,120,7,1,130
+İstanbul,Maltepe, Cevizli Mah.,1,1,72,11,2,310
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,120,35,5,360
+İstanbul,Beykoz, Kavacık Mah.,3,1,150,25,4,470
+İstanbul,Kadıköy, Göztepe Mah.,4,1,190,15,1,800
+İstanbul,Çekmeköy, Cumhuriyet Mah.,1,1,72,10,7,250
+İstanbul,Maltepe, Aydınevler Mah.,2,1,90,2,2,310
+İstanbul,Üsküdar, Burhaniye Mah.,1,1,65,0,0,280
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,1,1,125,1,4,550
+İstanbul,Beylikdüzü, Cumhuriyet Mah.,1,1,78,25,4,200
+İstanbul,Küçükçekmece, Yeni Mahalle Mah.,2,1,85,18,1,250
+İstanbul,Esenyurt, Çınar Mah.,2,1,100,5,4,160
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,1,1,90,12,2,590
+İstanbul,Eyüpsultan, Silahtarağa Mah.,2,1,100,7,7,333
+İstanbul,Küçükçekmece, Atakent Mah.,2,1,133,12,5,500
+İstanbul,Kadıköy, Sahrayı Cedit Mah.,4,1,180,0,5,650
+İstanbul,Fatih, Koca Mustafapaşa Mah.,1,1,75,40,0,150
+İstanbul,Beşiktaş, Etiler Mah.,2,1,100,0,3,1200
+İstanbul,Çekmeköy, Merkez Mah.,2,1,90,17,0,180
+İstanbul,Esenler, Kazım Karabekir Mah.,2,1,125,26,2,180
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,130,35,3,300
+İstanbul,Üsküdar, Valide-i Atik Mah.,2,1,80,34,2,230
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,135,28,2,440
+İstanbul,Kağıthane, Emniyet Evleri Mah.,2,1,79,7,-1,300
+İstanbul,Küçükçekmece, Cennet Mah.,3,1,140,15,2,500
+İstanbul,Esenyurt, İncirtepe Mah.,1,1,90,0,1,100
+İstanbul,Şişli, 19 Mayıs Mah.,2,1,60,20,-1,200
+İstanbul,Beyoğlu, Kadımehmet Efendi Mah.,1,1,75,40,2,170
+İstanbul,Şişli, Cumhuriyet Mah.,1,1,55,30,3,220
+İstanbul,Şişli, Fulya Mah.,2,1,100,5,4,450
+İstanbul,Şişli, 19 Mayıs Mah.,2,1,90,40,4,300
+İstanbul,Şişli, Gülbahar Mah.,2,1,85,24,6,200
+İstanbul,Bahçelievler, Bahçelievler Mah.,3,1,135,4,1,550
+İstanbul,Şişli, 19 Mayıs Mah.,2,1,85,30,3,350
+İstanbul,Fatih, Haseki Sultan Mah.,1,1,60,45,0,175
+İstanbul,Bayrampaşa, Yıldırım Mah.,3,1,130,30,1,230
+İstanbul,Zeytinburnu, Sümer Mah.,3,1,130,29,3,230
+İstanbul,Kadıköy, Kozyatağı Mah.,1,1,60,0,1,395
+İstanbul,Esenyurt, Üçevler Mah.,2,1,110,3,0,120
+İstanbul,Kağıthane, Yahya Kemal Mah.,2,1,90,0,3,260
+İstanbul,Şişli, Feriköy Mah.,1,1,75,30,5,170
+İstanbul,Ataşehir, Fetih Mah.,2,1,98,33,1,300
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,3,1,100,1,0,600
+İstanbul,Bakırköy, Zuhuratbaba Mah.,3,1,140,0,2,800
+İstanbul,Avcılar, Cihangir Mah.,3,1,150,25,5,300
+İstanbul,Beşiktaş, Konaklar Mah.,3,1,150,28,2,700
+İstanbul,Pendik, Yeni Mah.,3,1,135,25,7,270
+İstanbul,Ataşehir, Atatürk Mah.,1,1,51,5,8,330
+İstanbul,Kadıköy, Caferağa Mah.,2,1,81,40,1,350
+İstanbul,Esenyurt, Üçevler Mah.,1,1,80,6,0,120
+İstanbul,Fatih, Seyyid Ömer Mah.,3,1,125,40,2,270
+İstanbul,Şişli, 19 Mayıs Mah.,1,1,85,5,1,400
+İstanbul,Sultanbeyli, Adil Mah.,1,1,65,11,7,230
+İstanbul,Maltepe, Feyzullah Mah.,2,1,75,8,0,365
+İstanbul,Pendik, Güllü Bağlar Mah.,2,1,89,1,7,265
+İstanbul,Küçükçekmece, Gültepe Mah.,3,1,130,28,5,250
+İstanbul,Ataşehir, Atatürk Mah.,3,1,160,26,1,555
+İstanbul,Ataşehir, Kayışdağı Mah.,3,1,110,30,3,250
+İstanbul,Üsküdar, Kuleli Mah.,3,1,145,35,5,300
+İstanbul,Kartal, Soğanlık Yeni Mah.,2,1,113,15,2,380
+İstanbul,Şişli, Gülbahar Mah.,1,1,60,20,1,160
+İstanbul,Beykoz, Çiğdem Mah.,3,1,130,26,2,240
+İstanbul,Beyoğlu, Kocatepe Mah.,1,1,60,20,2,180
+İstanbul,Beylikdüzü, Gürpınar Mah.,3,1,120,3,2,280
+İstanbul,Bahçelievler, Zafer Mah.,2,1,85,0,1,240
+İstanbul,Esenyurt, Mehterçeşme Mah.,3,1,140,10,1,200
+İstanbul,Ümraniye, Tatlısu Mah.,3,1,135,20,8,289
+İstanbul,Beyoğlu, Cihangir Mah.,2,1,100,30,2,500
+İstanbul,Kadıköy, Fenerbahçe Mah.,2,1,85,6,8,800
+İstanbul,Beşiktaş, Arnavutköy Mah.,2,1,80,30,1,550
+İstanbul,Küçükçekmece, Kemalpaşa Mah.,2,1,95,25,3,175
+İstanbul,Maltepe, Küçükyalı Mah.,3,1,115,35,2,350
+İstanbul,Şişli, Yayla Mah.,1,1,65,10,5,280
+İstanbul,Şişli, Mecidiyeköy Mah.,3,1,125,25,2,320
+İstanbul,Fatih, Cerrahpaşa Mah.,2,1,100,40,2,230
+İstanbul,Kağıthane, Seyrantepe Mah.,3,1,115,15,3,350
+İstanbul,Beşiktaş, Etiler Mah.,4,1,200,35,3,850
+İstanbul,Şişli, Merkez Mah.,2,1,90,25,2,450
+İstanbul,Kartal, Kordonboyu Mah.,2,1,115,15,6,500
+İstanbul,Kağıthane, Emniyet Evleri Mah.,3,1,125,35,2,280
+İstanbul,Kağıthane, Seyrantepe Mah.,2,1,85,0,4,350
+İstanbul,Zeytinburnu, Sümer Mah.,3,1,135,25,2,350
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,85,20,1,270
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,125,32,5,300
+İstanbul,Küçükçekmece, Atakent Mah.,3,1,125,35,2,330
+İstanbul,Kağıthane, Merkez Mah.,2,1,85,9,0,120
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,125,35,3,330
+İstanbul,Ataşehir, Kayışdağı Mah.,1,1,70,9,1,225
+İstanbul,Güngören, Gençosman Mah.,2,1,100,27,3,150
+İstanbul,Bahçelievler, Hürriyet Mah.,1,1,55,9,1,159
+İstanbul,Fatih, Molla Gürani Mah.,2,1,85,38,0,200
+İstanbul,Avcılar, Tahtakale Mah.,2,1,120,10,6,250
+İstanbul,Zeytinburnu, Merkezefendi Mah.,2,1,80,12,1,250
+İstanbul,Şişli, Cumhuriyet Mah.,2,1,90,21,1,380
+İstanbul,Üsküdar, Bahçelievler Mah.,3,1,125,25,5,450
+İstanbul,Zeytinburnu, Sümer Mah.,3,1,120,35,3,270
+İstanbul,Kadıköy, Suadiye Mah.,3,1,160,31,4,650
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,1,1,70,45,3,350
+İstanbul,Küçükçekmece, Yeni Mahalle Mah.,2,1,90,10,1,240
+İstanbul,Kadıköy, Fenerbahçe Mah.,3,1,115,7,1,800
+İstanbul,Şişli, Feriköy Mah.,3,1,130,35,2,430
+İstanbul,Beyoğlu, Kocatepe Mah.,1,1,54,25,4,275
+İstanbul,Beşiktaş, Gayrettepe Mah.,1,1,60,15,3,400
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,135,6,3,675
+İstanbul,Büyükçekmece, Fatih Mah.,2,1,80,0,2,230
+İstanbul,Beykoz, Kanlıca Mah.,3,1,140,30,2,800
+İstanbul,Şişli, Halide Edip Adıvar Mah.,2,1,75,8,1,230
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,120,33,4,250
+İstanbul,Kadıköy, Erenköy Mah.,2,1,129,31,4,380
+İstanbul,Kadıköy, Hasanpaşa Mah.,1,1,50,45,0,215
+İstanbul,Fatih, Derviş Ali Mah.,2,1,65,40,0,150
+İstanbul,Kağıthane, Telsizler Mah.,2,1,90,15,0,255
+İstanbul,Kağıthane, Seyrantepe Mah.,2,1,100,9,0,200
+İstanbul,Küçükçekmece, Gültepe Mah.,2,1,90,5,2,290
+İstanbul,Şişli, Paşa Mah.,2,1,85,40,3,300
+İstanbul,Beykoz, Paşabahçe Mah.,2,1,90,30,1,260
+İstanbul,Beylikdüzü, Dereağzı Mah.,2,1,110,8,0,200
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,2,1,150,45,4,360
+İstanbul,Şişli, Feriköy Mah.,2,1,85,26,4,270
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,110,40,2,400
+İstanbul,Esenyurt, Koza Mah.,2,1,110,11,5,220
+İstanbul,Şişli, İnönü Mah.,1,1,75,35,2,230
+İstanbul,Beşiktaş, Yıldız Mah.,3,1,135,5,1,500
+İstanbul,Şişli, Merkez Mah.,2,1,85,2,2,500
+İstanbul,Beşiktaş, Dikilitaş Mah.,1,1,80,28,3,400
+İstanbul,Beyoğlu, Cihangir Mah.,2,1,100,5,4,600
+İstanbul,Beyoğlu, Şehit Muhtar Mah.,2,1,85,50,2,270
+İstanbul,Beşiktaş, Mecidiye Mah.,1,1,80,30,2,250
+İstanbul,Beşiktaş, Dikilitaş Mah.,3,1,150,10,0,550
+İstanbul,Kadıköy, Fenerbahçe Mah.,3,1,135,10,6,1100
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,85,5,0,160
+İstanbul,Kağıthane, Gültepe Mah.,3,1,120,30,1,255
+İstanbul,Kartal, Orta Mah.,3,1,150,20,2,345
+İstanbul,Bakırköy, Zuhuratbaba Mah.,2,1,130,5,1,600
+İstanbul,Maltepe, Yalı Mah.,3,1,140,28,2,400
+İstanbul,Bağcılar, Kemalpaşa Mah.,3,1,85,25,1,130
+İstanbul,Beyoğlu, Emekyemez Mah.,1,1,90,40,1,600
+İstanbul,Beyoğlu, Kocatepe Mah.,2,1,120,35,5,380
+İstanbul,Ataşehir, Atatürk Mah.,2,1,105,16,1,360
+İstanbul,Küçükçekmece, Atakent Mah.,1,1,65,14,0,265
+İstanbul,Kadıköy, Feneryolu Mah.,2,1,102,0,4,650
+İstanbul,Büyükçekmece, Sinanoba Mah.,3,1,145,19,5,400
+İstanbul,Sultangazi, Cebeci Mah.,3,1,130,15,4,220
+İstanbul,Beyoğlu, Cihangir Mah.,3,1,120,30,2,600
+İstanbul,Beşiktaş, Dikilitaş Mah.,3,1,135,28,2,500
+İstanbul,Bahçelievler, Çobançeşme Mah.,2,1,95,30,2,180
+İstanbul,Şişli, Gülbahar Mah.,2,1,85,20,3,260
+İstanbul,Ataşehir, Atatürk Mah.,3,1,124,31,3,450
+İstanbul,Kadıköy, Caferağa Mah.,1,1,60,5,0,450
+İstanbul,Ataşehir, Atatürk Mah.,2,1,110,25,7,495
+İstanbul,Bağcılar, Yenigün Mah.,2,1,120,25,0,200
+İstanbul,Beşiktaş, Türkali Mah.,3,1,100,35,3,350
+İstanbul,Ataşehir, İçerenköy Mah.,1,1,70,14,0,230
+İstanbul,Bakırköy, Şenlikköy Mah.,3,1,180,30,2,625
+İstanbul,Kadıköy, Suadiye Mah.,3,1,178,30,5,550
+İstanbul,Sancaktepe, Fatih Mah.,4,1,160,9,3,250
+İstanbul,Beykoz, Merkez Mah.,2,1,100,25,1,200
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,4,1,185,3,4,460
+İstanbul,Üsküdar, Cumhuriyet Mah.,3,1,120,10,0,225
+İstanbul,Maltepe, Feyzullah Mah.,3,1,160,27,6,400
+İstanbul,Sultangazi, Cebeci Mah.,3,1,130,15,4,220
+İstanbul,Bahçelievler, Çobançeşme Mah.,2,1,95,30,2,180
+İstanbul,Beşiktaş, Türkali Mah.,3,1,100,35,3,350
+İstanbul,Beyoğlu, Şehit Muhtar Mah.,2,1,125,35,5,380
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,2,1,90,5,5,1000
+İstanbul,Kadıköy, 19 Mayıs Mah.,3,1,120,38,2,420
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,2,1,100,40,5,450
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,2,1,85,9,1,570
+İstanbul,Beyoğlu, Yenişehir Mah.,2,1,80,30,1,180
+İstanbul,Şişli, Merkez Mah.,1,1,80,28,-2,250
+İstanbul,Maltepe, Fındıklı Mah.,1,1,70,17,5,180
+İstanbul,Kağıthane, Merkez Mah.,3,1,120,21,7,360
+İstanbul,Şişli, Cumhuriyet Mah.,1,1,45,0,4,480
+İstanbul,Bakırköy, Yeşilköy Mah.,2,1,125,35,5,375
+İstanbul,Küçükçekmece, Cennet Mah.,1,1,75,4,1,200
+İstanbul,Fatih, Haseki Sultan Mah.,2,1,90,45,3,215
+İstanbul,Büyükçekmece, Ekinoba Mah.,3,1,140,28,6,200
+İstanbul,Kadıköy, Göztepe Mah.,3,1,105,1,1,620
+İstanbul,Büyükçekmece, Pınartepe Mah.,2,1,110,3,2,330
+İstanbul,Beşiktaş, Sinanpaşa Mah.,2,1,85,40,1,350
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,110,32,3,325
+İstanbul,Ataşehir, İnönü Mah.,2,1,85,6,0,255
+İstanbul,Üsküdar, Bulgurlu Mah.,3,1,130,5,5,400
+İstanbul,Maltepe, Çınar Mah.,2,1,80,10,0,325
+İstanbul,Şişli, Bozkurt Mah.,2,1,75,50,0,260
+İstanbul,Beyoğlu, Camiikebir Mah.,1,1,55,40,2,150
+İstanbul,Kağıthane, Hürriyet Mah.,1,1,60,5,2,200
+İstanbul,Güngören, Tozkoparan Mah.,2,1,75,40,5,170
+İstanbul,Beşiktaş, Türkali Mah.,3,1,110,45,4,380
+İstanbul,Bahçelievler, Hürriyet Mah.,2,1,75,17,1,210
+İstanbul,Avcılar, Cihangir Mah.,2,1,105,10,0,40
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,90,15,2,320
+İstanbul,Beyoğlu, Bülbül Mah.,1,1,65,25,2,250
+İstanbul,Sarıyer, Reşitpaşa Mah.,3,1,110,20,0,270
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,100,0,3,500
+İstanbul,Beşiktaş, Ulus Mah.,2,1,160,30,1,850
+İstanbul,Kağıthane, Emniyet Evleri Mah.,3,1,120,40,4,270
+İstanbul,Sarıyer, Büyükdere Mah.,2,1,81,50,2,300
+İstanbul,Küçükçekmece, Atakent Mah.,1,1,47,13,5,240
+İstanbul,Beyoğlu, Hacıahmet Mah.,2,1,85,30,2,170
+İstanbul,Sarıyer, Cumhuriyet Mah.,2,1,100,27,2,250
+İstanbul,Esenyurt, Mevlana Mah.,1,1,75,9,7,140
+İstanbul,Küçükçekmece, Halkalı Merkez Mah.,2,1,125,0,0,550
+İstanbul,Beyoğlu, Ömer Avni Mah.,2,1,120,10,3,800
+İstanbul,Sarıyer, Çayırbaşı Mah.,2,1,90,13,1,370
+İstanbul,Kadıköy, Fenerbahçe Mah.,2,1,80,0,1,980
+İstanbul,Pendik, Güllü Bağlar Mah.,1,1,70,8,1,210
+İstanbul,Üsküdar, Valide-i Atik Mah.,1,1,55,0,1,300
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,130,35,4,380
+İstanbul,Bayrampaşa, Altıntepsi Mah.,2,1,75,0,0,210
+İstanbul,Şişli, Esentepe Mah.,3,1,100,63,1,320
+İstanbul,Pendik, Yeni Mah.,2,1,105,11,5,350
+İstanbul,Büyükçekmece, Cumhuriyet Mah.,3,1,178,1,0,550
+İstanbul,Şişli, Halide Edip Adıvar Mah.,2,1,140,11,1,550
+İstanbul,Bağcılar, Yıldıztepe Mah.,2,1,80,30,3,200
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,95,30,4,340
+İstanbul,Maltepe, Cevizli Mah.,2,1,75,0,1,310
+İstanbul,Çekmeköy, Nişantepe Mah.,1,1,55,0,4,180
+İstanbul,Fatih, Koca Mustafapaşa Mah.,1,1,70,40,0,120
+İstanbul,Beykoz, Merkez Mah.,2,1,100,26,1,240
+İstanbul,Maltepe, Yalı Mah.,3,1,120,40,2,300
+İstanbul,Küçükçekmece, İstasyon Mah.,3,1,105,3,1,270
+İstanbul,Üsküdar, Bulgurlu Mah.,3,1,125,0,3,550
+İstanbul,Arnavutköy, Mustafa Kemal Paşa Mah.,2,1,85,10,4,230
+İstanbul,Beşiktaş, Kültür Mah.,3,1,125,40,5,600
+İstanbul,Bahçelievler, Yenibosna Merkez Mah.,3,1,130,30,2,250
+İstanbul,Bahçelievler, Yenibosna Merkez Mah.,3,1,130,30,2,250
+İstanbul,Beyoğlu, Cihangir Mah.,3,1,200,60,4,900
+İstanbul,Şişli, Gülbahar Mah.,3,1,120,25,2,250
+İstanbul,Eyüpsultan, Mimar Sinan Mah.,3,1,156,0,0,1300
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,120,30,1,450
+İstanbul,Ataşehir, Atatürk Mah.,3,1,150,28,1,550
+İstanbul,Avcılar, Cihangir Mah.,3,1,170,19,5,200
+İstanbul,Bahçelievler, Bahçelievler Mah.,4,1,200,15,0,570
+İstanbul,Kağıthane, Telsizler Mah.,1,1,60,25,1,140
+İstanbul,Esenyurt, Selahaddin Eyyubi Mah.,2,1,100,2,0,100
+İstanbul,Şişli, Merkez Mah.,2,1,100,35,5,450
+İstanbul,Beşiktaş, Dikilitaş Mah.,1,1,80,10,0,300
+İstanbul,Arnavutköy, Hadımköy Mah.,3,1,110,0,1,210
+İstanbul,Beşiktaş, Türkali Mah.,2,1,70,4,2,420
+İstanbul,Arnavutköy, Nenehatun Mah.,2,1,100,20,2,141
+İstanbul,Beşiktaş, Muradiye Mah.,2,1,85,30,1,360
+İstanbul,Kadıköy, Sahrayı Cedit Mah.,2,1,70,31,4,370
+İstanbul,Şişli, Yayla Mah.,1,1,65,4,0,195
+İstanbul,Pendik, Kavakpınar Mah.,2,1,85,5,5,220
+İstanbul,Üsküdar, Murat Reis Mah.,2,1,90,45,3,240
+İstanbul,Kartal, Kordonboyu Mah.,1,1,65,15,1,350
+İstanbul,Sarıyer, Kireçburnu Mah.,1,1,80,35,-1,345
+İstanbul,Pendik, Ahmet Yesevi Mah.,3,1,130,10,1,220
+İstanbul,Küçükçekmece, Gültepe Mah.,2,1,90,26,1,180
+İstanbul,Beyoğlu, Cihangir Mah.,1,1,45,40,2,360
+İstanbul,Avcılar, Denizköşkler Mah.,1,1,70,3,0,180
+İstanbul,Bahçelievler, Şirinevler Mah.,3,1,120,31,2,250
+İstanbul,Sarıyer, Ferahevler Mah.,3,1,120,35,1,680
+İstanbul,Büyükçekmece, Fatih Mah.,3,1,150,20,1,250
+İstanbul,Ataşehir, Barbaros Mah.,3,1,115,35,2,195
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,2,1,90,25,0,150
+İstanbul,Kağıthane, Nurtepe Mah.,1,1,70,1,1,300
+İstanbul,Kadıköy, Osmanağa Mah.,3,1,120,45,2,400
+İstanbul,Sultanbeyli, Yavuz Selim Mah.,3,1,170,15,2,200
+İstanbul,Kağıthane, Talatpaşa Mah.,2,1,85,20,1,160
+İstanbul,Avcılar, Mustafa Kemal Paşa Mah.,2,1,90,28,2,170
+İstanbul,Gaziosmanpaşa, Sarıgöl Mah.,2,1,90,30,5,175
+İstanbul,Bayrampaşa, Yıldırım Mah.,3,1,135,28,2,250
+İstanbul,Esenyurt, Mehmet Akif Ersoy Mah.,2,1,85,5,1,135
+İstanbul,Kadıköy, Fenerbahçe Mah.,4,1,200,23,8,800
+İstanbul,Kağıthane, Çağlayan Mah.,2,1,75,10,5,245
+İstanbul,Bakırköy, Zuhuratbaba Mah.,2,1,95,40,1,350
+İstanbul,Zeytinburnu, Veliefendi Mah.,1,1,80,25,0,145
+İstanbul,Kağıthane, Harmantepe Mah.,2,1,80,30,1,150
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,2,1,120,30,2,250
+İstanbul,Gaziosmanpaşa, Fevzi Çakmak Mah.,1,1,80,10,5,250
+İstanbul,Ümraniye, Altınşehir Mah.,2,1,90,20,2,235
+İstanbul,Kartal, Gümüşpınar Mah.,2,1,85,13,1,210
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,1,1,60,0,1,185
+İstanbul,Sarıyer, Zekeriyaköy Mah.,1,1,66,8,0,400
+İstanbul,Maltepe, Altıntepe Mah.,3,1,100,25,0,360
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,75,0,0,475
+İstanbul,Kağıthane, Yahya Kemal Mah.,1,1,55,15,0,130
+İstanbul,Şişli, Gülbahar Mah.,1,1,50,5,3,180
+İstanbul,Küçükçekmece, Gültepe Mah.,2,1,80,30,3,120
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,85,24,8,220
+İstanbul,Üsküdar, Küçük Çamlıca Mah.,4,1,165,27,3,300
+İstanbul,Pendik, Kaynarca Mah.,3,1,110,5,2,300
+İstanbul,Avcılar, Denizköşkler Mah.,3,1,150,25,3,230
+İstanbul,Kağıthane, Gültepe Mah.,2,1,105,20,7,250
+İstanbul,Şişli, Meşrutiyet Mah.,2,1,110,31,3,570
+İstanbul,Kartal, Hürriyet Mah.,2,1,95,9,1,195
+İstanbul,Kadıköy, Merdivenköy Mah.,2,1,85,35,0,280
+İstanbul,Kağıthane, Şirintepe Mah.,2,1,81,3,7,300
+İstanbul,Büyükçekmece, Cumhuriyet Mah.,2,1,90,0,3,230
+İstanbul,Bakırköy, Ataköy 7-8-9-10. Kısım Mah.,1,1,45,31,2,275
+İstanbul,Beylikdüzü, Dereağzı Mah.,2,1,95,7,1,125
+İstanbul,Kağıthane, Sultan Selim Mah.,1,1,75,32,2,165
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,90,33,5,170
+İstanbul,Kağıthane, Emniyet Evleri Mah.,2,1,90,0,2,400
+İstanbul,Bahçelievler, Şirinevler Mah.,1,1,60,25,1,150
+İstanbul,Beşiktaş, Bebek Mah.,3,1,190,50,2,1100
+İstanbul,Kadıköy, Merdivenköy Mah.,2,1,98,38,3,280
+İstanbul,Şişli, Mecidiyeköy Mah.,3,1,115,15,6,260
+İstanbul,Maltepe, Fındıklı Mah.,3,1,125,15,2,260
+İstanbul,Avcılar, Denizköşkler Mah.,3,1,160,30,2,200
+İstanbul,Kağıthane, Harmantepe Mah.,1,1,65,5,1,195
+İstanbul,Şişli, Esentepe Mah.,3,1,100,45,2,500
+İstanbul,Ataşehir, Kayışdağı Mah.,1,1,45,6,1,200
+İstanbul,Ümraniye, Cemil Meriç Mah.,2,1,53,0,0,235
+İstanbul,Fatih, Şehremini Mah.,1,1,55,42,1,120
+İstanbul,Sarıyer, İstinye Mah.,3,1,140,20,4,330
+İstanbul,Maltepe, Feyzullah Mah.,3,1,135,35,2,450
+İstanbul,Beyoğlu, Yenişehir Mah.,1,1,70,30,5,130
+İstanbul,Beşiktaş, Türkali Mah.,2,1,90,45,0,230
+İstanbul,Ataşehir, Kayışdağı Mah.,2,1,90,6,2,245
+İstanbul,Güngören, Abdurrahman Nafiz Gürman Mah.,2,1,95,32,0,175
+İstanbul,Kağıthane, Emniyet Evleri Mah.,2,1,80,30,2,270
+İstanbul,Kadıköy, Bostancı Mah.,3,1,150,30,4,570
+İstanbul,Şişli, Gülbahar Mah.,1,1,65,30,0,135
+İstanbul,Beyoğlu, Ömer Avni Mah.,2,1,120,12,3,800
+İstanbul,Güngören, Haznedar Mah.,2,1,130,35,2,250
+İstanbul,Beyoğlu, Hacıahmet Mah.,1,1,70,10,2,170
+İstanbul,Bahçelievler, Zafer Mah.,2,1,80,16,4,200
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,115,38,5,160
+İstanbul,Sarıyer, Kireçburnu Mah.,3,1,130,25,3,300
+İstanbul,Bahçelievler, Şirinevler Mah.,2,1,90,38,1,180
+İstanbul,Şişli, Fulya Mah.,2,1,110,21,2,450
+İstanbul,Ataşehir, Atatürk Mah.,2,1,80,31,3,275
+İstanbul,Beşiktaş, Ortaköy Mah.,2,1,90,35,-1,450
+İstanbul,Şişli, Eskişehir Mah.,2,1,90,45,3,260
+İstanbul,Beykoz, Paşabahçe Mah.,2,1,110,30,2,230
+İstanbul,Şişli, Feriköy Mah.,2,1,45,15,1,180
+İstanbul,Beşiktaş, Nisbetiye Mah.,1,1,80,40,0,320
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,120,40,2,300
+İstanbul,Şişli, Paşa Mah.,2,1,95,5,0,260
+İstanbul,Gaziosmanpaşa, Bağlarbaşı Mah.,2,1,130,25,4,230
+İstanbul,Kağıthane, Sultan Selim Mah.,3,1,130,29,2,250
+İstanbul,Çekmeköy, Taşdelen Mah.,1,1,67,0,3,355
+İstanbul,Bahçelievler, Hürriyet Mah.,2,1,85,35,4,210
+İstanbul,Maltepe, Küçükyalı Mah.,2,1,85,30,1,285
+İstanbul,Şişli, Cumhuriyet Mah.,3,1,140,25,2,390
+İstanbul,Beyoğlu, Cihangir Mah.,1,1,55,40,1,400
+İstanbul,Sarıyer, Tarabya Mah.,2,1,75,32,2,300
+İstanbul,Eyüpsultan, Çırçır Mah.,3,1,115,21,4,250
+İstanbul,Kağıthane, Gürsel Mah.,2,1,110,12,5,250
+İstanbul,Maltepe, Cevizli Mah.,3,1,135,25,2,260
+İstanbul,Silivri, Mimar Sinan Mah.,2,1,120,5,2,240
+İstanbul,Fatih, Akşemsettin Mah.,2,1,75,40,2,200
+İstanbul,Beyoğlu, Asmalı Mescit Mah.,2,1,90,60,5,500
+İstanbul,Kağıthane, Yeşilce Mah.,2,1,80,7,2,200
+İstanbul,Fatih, Koca Mustafapaşa Mah.,1,1,60,32,3,130
+İstanbul,Bahçelievler, Şirinevler Mah.,2,1,85,40,4,270
+İstanbul,Maltepe, Fındıklı Mah.,3,1,130,11,2,260
+İstanbul,Küçükçekmece, Atakent Mah.,2,1,80,23,5,250
+İstanbul,Üsküdar, Aziz Mahmut Hüdayi Mah.,1,1,65,0,0,260
+İstanbul,Eyüpsultan, Merkez Mah.,2,1,65,5,0,175
+İstanbul,Esenler, Nine Hatun Mah.,2,1,110,26,5,135
+İstanbul,Kağıthane, Gürsel Mah.,2,1,80,10,0,190
+İstanbul,Eyüpsultan, Akşemsettin Mah.,2,1,75,15,-1,180
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,120,31,3,350
+İstanbul,Küçükçekmece, Kemalpaşa Mah.,3,1,120,25,4,200
+İstanbul,Üsküdar, Çengelköy Mah.,3,1,135,0,2,580
+İstanbul,Küçükçekmece, Fatih Mah.,3,1,115,27,2,260
+İstanbul,Başakşehir, Bahçeşehir 2. Kısım Mah.,1,1,64,5,1,210
+İstanbul,Küçükçekmece, Fevzi Çakmak Mah.,3,1,110,30,2,165
+İstanbul,Kağıthane, Emniyet Evleri Mah.,2,1,90,31,2,255
+İstanbul,Avcılar, Üniversite Mah.,2,1,110,9,2,65
+İstanbul,Bağcılar, Kazım Karabekir Mah.,2,1,120,25,3,150
+İstanbul,Beyoğlu, Firuzağa Mah.,2,1,80,21,1,300
+İstanbul,Avcılar, Ambarlı Mah.,2,1,85,0,0,200
+İstanbul,Fatih, Koca Mustafapaşa Mah.,1,1,55,30,-3,160
+İstanbul,Fatih, Cerrahpaşa Mah.,2,1,80,40,-3,170
+İstanbul,Beylikdüzü, Kavaklı Mah.,1,1,65,0,0,130
+İstanbul,Küçükçekmece, Atatürk Mah.,2,1,100,30,0,105
+İstanbul,Beşiktaş, Dikilitaş Mah.,1,1,70,0,2,500
+İstanbul,Üsküdar, Zeynep Kamil Mah.,2,1,80,35,3,270
+İstanbul,Esenyurt, Mehterçeşme Mah.,2,1,90,10,0,100
+İstanbul,Fatih, Yedikule Mah.,1,1,75,50,5,170
+İstanbul,Fatih, Akşemsettin Mah.,1,1,75,40,2,150
+İstanbul,Silivri, Yeni Mah.,2,1,115,2,4,215
+İstanbul,Beyoğlu, Kılıçali Paşa Mah.,1,1,90,45,0,350
+İstanbul,Üsküdar, Valide-i Atik Mah.,1,1,55,0,2,320
+İstanbul,Kağıthane, Seyrantepe Mah.,2,1,95,6,3,275
+İstanbul,Ataşehir, Küçükbakkalköy Mah.,3,1,125,9,2,420
+İstanbul,Kartal, Esentepe Mah.,2,1,78,7,1,250
+İstanbul,Esenyurt, Yeşilkent Mah.,3,1,127,10,8,245
+İstanbul,Şişli, Fulya Mah.,3,1,140,31,2,650
+İstanbul,Kağıthane, Ortabayır Mah.,2,1,130,5,0,205
+İstanbul,Fatih, Silivrikapı Mah.,1,1,60,40,2,150
+İstanbul,Tuzla, Postane Mah.,1,1,55,25,0,300
+İstanbul,Bayrampaşa, Altıntepsi Mah.,2,1,75,25,3,150
+İstanbul,Maltepe, Feyzullah Mah.,2,1,90,24,0,230
+İstanbul,Silivri, Alibey Mah.,3,1,120,8,2,220
+İstanbul,Beykoz, Çamlıbahçe Mah.,3,1,110,25,1,200
+İstanbul,Küçükçekmece, Halkalı Merkez Mah.,3,1,140,4,4,420
+İstanbul,Sultanbeyli, Necip Fazıl Mah.,2,1,130,16,4,150
+İstanbul,Şişli, Fulya Mah.,1,1,55,25,3,185
+İstanbul,Şişli, Bozkurt Mah.,2,1,100,35,0,280
+İstanbul,Zeytinburnu, Yenidoğan Mah.,2,1,100,24,3,250
+İstanbul,Kartal, Hürriyet Mah.,2,1,100,22,1,150
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,130,35,5,450
+İstanbul,Avcılar, Ambarlı Mah.,2,1,90,35,0,110
+İstanbul,Küçükçekmece, Halkalı Merkez Mah.,2,1,70,3,7,200
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,85,0,0,350
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,125,36,4,300
+İstanbul,Beyoğlu, Asmalı Mescit Mah.,3,1,125,50,2,600
+İstanbul,Esenyurt, Fatih Mah.,1,1,65,4,1,135
+İstanbul,Fatih, Seyyid Ömer Mah.,2,1,80,35,1,200
+İstanbul,Adalar, Heybeliada Mah.,2,1,110,35,1,500
+İstanbul,Fatih, Aksaray Mah.,3,1,110,40,1,320
+İstanbul,Beyoğlu, Ömer Avni Mah.,1,1,70,31,3,285
+İstanbul,Bağcılar, Yenimahalle Mah.,1,1,90,5,2,250
+İstanbul,Kağıthane, Harmantepe Mah.,2,1,80,40,1,155
+İstanbul,Beyoğlu, Kalyoncu Kulluğu Mah.,3,1,90,60,4,350
+İstanbul,Kadıköy, Zühtüpaşa Mah.,3,1,120,16,6,660
+İstanbul,Beşiktaş, Gayrettepe Mah.,3,1,140,45,-2,425
+İstanbul,Zeytinburnu, Merkezefendi Mah.,3,1,110,31,2,350
+İstanbul,Sancaktepe, Mevlana Mah.,1,1,75,6,0,130
+İstanbul,Kadıköy, Fenerbahçe Mah.,3,1,100,40,1,750
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,2,1,70,50,1,370
+İstanbul,Şişli, Bozkurt Mah.,2,1,75,35,1,260
+İstanbul,Büyükçekmece, Güzelce Mah.,2,1,120,20,1,200
+İstanbul,Kağıthane, Ortabayır Mah.,1,1,55,3,2,420
+İstanbul,Sarıyer, Tarabya Mah.,2,1,110,30,5,400
+İstanbul,Kağıthane, Sultan Selim Mah.,1,1,70,29,1,250
+İstanbul,Kağıthane, Çeliktepe Mah.,2,1,90,9,1,310
+İstanbul,Bahçelievler, Hürriyet Mah.,2,1,80,1,4,300
+İstanbul,Maltepe, Çınar Mah.,2,1,85,40,1,280
+İstanbul,Sarıyer, Rumeli Kavağı Mah.,2,1,75,20,2,280
+İstanbul,Fatih, Koca Mustafapaşa Mah.,2,1,100,8,1,360
+İstanbul,Şişli, İnönü Mah.,1,1,80,30,3,270
+İstanbul,Küçükçekmece, Söğütlü Çeşme Mah.,2,1,75,27,0,100
+İstanbul,Maltepe, Başıbüyük Mah.,2,1,90,15,4,235
+İstanbul,Kağıthane, Yeşilce Mah.,2,1,90,5,1,150
+İstanbul,Beyoğlu, Kaptanpaşa Mah.,2,1,90,20,5,180
+İstanbul,Maltepe, Başıbüyük Mah.,2,1,90,20,2,160
+İstanbul,Üsküdar, Valide-i Atik Mah.,1,1,65,0,0,270
+İstanbul,Bağcılar, Hürriyet Mah.,2,1,100,23,4,150
+İstanbul,Fatih, Topkapı Mah.,3,1,145,32,1,300
+İstanbul,Bahçelievler, Soğanlı Mah.,4,1,150,19,4,300
+İstanbul,Maltepe, Bağlarbaşı Mah.,3,1,160,31,2,250
+İstanbul,Sarıyer, Ayazağa Mah.,1,1,65,35,0,200
+İstanbul,Üsküdar, Kısıklı Mah.,2,1,80,0,1,300
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,80,0,3,500
+İstanbul,Beyoğlu, Müeyyetzade Mah.,1,1,58,35,4,420
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,75,15,5,145
+İstanbul,Esenler, Menderes Mah.,2,1,95,25,4,150
+İstanbul,Üsküdar, Kuzguncuk Mah.,2,1,85,40,2,700
+İstanbul,Beyoğlu, Cihangir Mah.,3,1,120,45,5,750
+İstanbul,Gaziosmanpaşa, Yıldıztabya Mah.,2,1,90,15,1,210
+İstanbul,Büyükçekmece, Murat Çeşme Mah.,2,1,73,0,2,220
+İstanbul,Sarıyer, Tarabya Mah.,3,1,130,25,2,350
+İstanbul,Bayrampaşa, Orta Mah.,2,1,85,40,2,145
+İstanbul,Beşiktaş, Gayrettepe Mah.,1,1,80,13,2,395
+İstanbul,Küçükçekmece, Atakent Mah.,1,1,65,24,4,230
+İstanbul,Bahçelievler, Bahçelievler Mah.,3,1,120,35,6,300
+İstanbul,Kadıköy, Caddebostan Mah.,2,1,100,8,1,600
+İstanbul,Şişli, Feriköy Mah.,1,1,75,40,-1,330
+İstanbul,Güngören, Güven Mah.,2,1,95,33,2,200
+İstanbul,Üsküdar, Bulgurlu Mah.,3,1,140,30,3,350
+İstanbul,Arnavutköy, Anadolu Mah.,1,1,70,4,5,120
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,115,38,5,150
+İstanbul,Fatih, Cerrahpaşa Mah.,2,1,80,38,0,150
+İstanbul,Gaziosmanpaşa, Karayolları Mah.,2,1,85,13,-3,145
+İstanbul,Kadıköy, Bostancı Mah.,3,1,85,3,1,480
+İstanbul,Beşiktaş, Mecidiye Mah.,1,1,80,32,5,250
+İstanbul,Şişli, Feriköy Mah.,1,1,80,30,2,250
+İstanbul,Bağcılar, Demirkapı Mah.,2,1,85,35,0,110
+İstanbul,Fatih, Şehremini Mah.,2,1,90,35,1,180
+İstanbul,Üsküdar, Kandilli Mah.,3,1,130,0,2,650
+İstanbul,Maltepe, Girne Mah.,3,1,130,11,3,390
+İstanbul,Üsküdar, Aziz Mahmut Hüdayi Mah.,3,1,80,45,2,320
+İstanbul,Sultangazi, 75. Yıl Mah.,2,1,95,20,5,180
+İstanbul,Üsküdar, Valide-i Atik Mah.,1,1,55,0,0,270
+İstanbul,Şişli, Gülbahar Mah.,1,1,70,8,1,350
+İstanbul,Çekmeköy, Kirazlıdere Mah.,2,1,90,10,1,200
+İstanbul,Kartal, Cevizli Mah.,2,1,100,2,6,530
+İstanbul,Fatih, Silivrikapı Mah.,1,1,60,40,1,150
+İstanbul,Tuzla, Aydınlı Mah.,1,1,70,14,5,210
+İstanbul,Sultanbeyli, Orhangazi Mah.,2,1,100,1,2,221
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,75,10,0,400
+İstanbul,Kağıthane, Emniyet Evleri Mah.,3,1,105,35,2,200
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,2,1,80,0,2,230
+İstanbul,Kağıthane, Seyrantepe Mah.,2,1,90,30,3,200
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,150,30,3,750
+İstanbul,Esenyurt, Talatpaşa Mah.,2,1,90,8,2,120
+İstanbul,Şişli, Merkez Mah.,2,1,85,4,2,425
+İstanbul,Beşiktaş, Vişnezade Mah.,2,1,80,40,2,300
+İstanbul,Şişli, Mecidiyeköy Mah.,1,1,65,35,2,300
+İstanbul,Esenler, Birlik Mah.,2,1,85,16,0,200
+İstanbul,Beşiktaş, Mecidiye Mah.,3,1,130,35,2,400
+İstanbul,Gaziosmanpaşa, Hürriyet Mah.,2,1,90,30,5,200
+İstanbul,Bahçelievler, Zafer Mah.,1,1,62,3,0,180
+İstanbul,Tuzla, Postane Mah.,3,1,120,5,2,350
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,115,37,4,350
+İstanbul,Eyüpsultan, Mimar Sinan Mah.,3,1,193,1,1,1250
+İstanbul,Esenyurt, Yunus Emre Mah.,2,1,125,20,4,100
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,90,50,3,250
+İstanbul,Beşiktaş, Ulus Mah.,3,1,170,28,4,750
+İstanbul,Beylikdüzü, Cumhuriyet Mah.,3,1,145,26,8,270
+İstanbul,Fatih, Yedikule Mah.,2,1,65,50,0,150
+İstanbul,Kağıthane, Şirintepe Mah.,2,1,100,25,2,160
+İstanbul,Beşiktaş, Ulus Mah.,2,1,80,22,-1,350
+İstanbul,Üsküdar, Zeynep Kamil Mah.,2,1,85,30,1,270
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,85,0,4,380
+İstanbul,Üsküdar, Zeynep Kamil Mah.,2,1,90,33,3,255
+İstanbul,Kağıthane, Ortabayır Mah.,2,1,115,25,1,280
+İstanbul,Üsküdar, İcadiye Mah.,2,1,90,13,0,300
+İstanbul,Avcılar, Üniversite Mah.,3,1,110,12,5,220
+İstanbul,Esenyurt, Pınar Mah.,1,1,65,6,1,120
+İstanbul,Beşiktaş, Türkali Mah.,2,1,70,40,1,225
+İstanbul,Çekmeköy, Kirazlıdere Mah.,2,1,120,0,5,650
+İstanbul,Ümraniye, Çamlık Mah.,2,1,100,25,5,250
+İstanbul,Şişli, Teşvikiye Mah.,2,1,125,30,2,500
+İstanbul,Beykoz, Paşabahçe Mah.,1,1,71,30,2,235
+İstanbul,Zeytinburnu, Telsiz Mah.,2,1,100,28,1,250
+İstanbul,Büyükçekmece, Mimaroba Mah.,1,1,70,15,0,200
+İstanbul,Kağıthane, Ortabayır Mah.,1,1,55,3,5,420
+İstanbul,Şişli, 19 Mayıs Mah.,2,1,72,24,2,200
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,80,19,3,250
+İstanbul,Ümraniye, Yukarı Dudullu Mah.,3,1,103,31,3,440
+İstanbul,Bağcılar, Göztepe Mah.,4,1,165,30,2,235
+İstanbul,Sarıyer, Maslak Mah.,2,1,155,8,2,700
+İstanbul,Üsküdar, Küçüksu Mah.,2,1,150,50,3,320
+İstanbul,Fatih, Şehremini Mah.,2,1,100,40,0,300
+İstanbul,Üsküdar, Valide-i Atik Mah.,1,1,65,0,4,300
+İstanbul,Kadıköy, Caferağa Mah.,3,1,95,38,3,420
+İstanbul,Küçükçekmece, Sultan Murat Mah.,1,1,60,25,1,150
+İstanbul,Beyoğlu, Kamer Hatun Mah.,2,1,85,25,4,335
+İstanbul,Kağıthane, Harmantepe Mah.,1,1,75,28,0,160
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,80,35,0,100
+İstanbul,Ataşehir, İçerenköy Mah.,3,1,135,27,1,300
+İstanbul,Fatih, Silivrikapı Mah.,2,1,75,35,3,160
+İstanbul,Ataşehir, Esatpaşa Mah.,2,1,70,12,0,215
+İstanbul,Sarıyer, Maslak Mah.,2,1,125,11,2,700
+İstanbul,Üsküdar, Valide-i Atik Mah.,2,1,95,38,3,270
+İstanbul,Beyoğlu, Ömer Avni Mah.,2,1,90,40,2,400
+İstanbul,Beyoğlu, Örnektepe Mah.,2,1,85,15,-1,180
+İstanbul,Gaziosmanpaşa, Bağlarbaşı Mah.,3,1,125,20,1,200
+İstanbul,Şişli, Halide Edip Adıvar Mah.,2,1,95,25,4,210
+İstanbul,Küçükçekmece, Atakent Mah.,1,1,65,28,1,200
+İstanbul,Beyoğlu, Gümüşsuyu Mah.,3,1,100,60,2,700
+İstanbul,Sancaktepe, Osmangazi Mah.,2,1,122,5,8,250
+İstanbul,Beyoğlu, Cihangir Mah.,1,1,90,47,-2,350
+İstanbul,Kadıköy, Suadiye Mah.,2,1,85,8,1,580
+İstanbul,Bakırköy, Zuhuratbaba Mah.,4,1,130,35,3,450
+İstanbul,Üsküdar, Çengelköy Mah.,2,1,108,3,2,750
+İstanbul,Beylikdüzü, Gürpınar Mah.,1,1,65,10,5,180
+İstanbul,Beylikdüzü, Adnan Kahveci Mah.,2,1,90,20,2,230
+İstanbul,Kağıthane, Emniyet Evleri Mah.,1,1,60,35,1,180
+İstanbul,Silivri, Mimar Sinan Mah.,2,1,95,0,4,180
+İstanbul,Üsküdar, Ünalan Mah.,1,1,60,0,0,300
+İstanbul,Gaziosmanpaşa, Yeni Mahalle Mah.,2,1,85,10,0,165
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,148,0,2,1000
+İstanbul,Kartal, Hürriyet Mah.,1,1,60,22,1,100
+İstanbul,Şişli, Gülbahar Mah.,1,1,55,15,-1,175
+İstanbul,Kağıthane, Yahya Kemal Mah.,2,1,86,15,0,200
+İstanbul,Beyoğlu, Çatma Mescit Mah.,2,1,90,4,1,295
+İstanbul,Beyoğlu, Kadımehmet Efendi Mah.,2,1,75,40,2,200
+İstanbul,Maltepe, Bağlarbaşı Mah.,2,1,100,30,1,245
+İstanbul,Şişli, Gülbahar Mah.,2,1,70,6,1,200
+İstanbul,Bahçelievler, Fevzi Çakmak Mah.,2,1,89,32,4,170
+İstanbul,Kağıthane, Ortabayır Mah.,1,1,70,34,1,160
+İstanbul,Fatih, Şehremini Mah.,2,1,105,40,3,200
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,100,36,5,280
+İstanbul,Şişli, Eskişehir Mah.,2,1,75,45,0,180
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,85,48,1,200
+İstanbul,Beyoğlu, Cihangir Mah.,1,1,70,50,0,210
+İstanbul,Kadıköy, Caferağa Mah.,3,1,120,35,1,430
+İstanbul,Kağıthane, Şirintepe Mah.,1,1,47,4,0,250
+İstanbul,Büyükçekmece, Atatürk Mah.,3,1,165,25,3,170
+İstanbul,Üsküdar, Aziz Mahmut Hüdayi Mah.,2,1,60,0,1,320
+İstanbul,Beşiktaş, Dikilitaş Mah.,1,1,60,7,1,300
+İstanbul,Sarıyer, Emirgan Mah.,1,1,60,25,0,210
+İstanbul,Sarıyer, Zekeriyaköy Mah.,3,1,116,28,2,550
+İstanbul,Başakşehir, Bahçeşehir 2. Kısım Mah.,3,1,145,20,8,225
+İstanbul,Ataşehir, İçerenköy Mah.,3,1,120,22,1,300
+İstanbul,Küçükçekmece, Atakent Mah.,3,1,130,20,3,550
+İstanbul,Şişli, Eskişehir Mah.,1,1,45,45,1,180
+İstanbul,Beşiktaş, Gayrettepe Mah.,2,1,80,15,5,600
+İstanbul,Kağıthane, Çeliktepe Mah.,1,1,70,31,1,135
+İstanbul,Fatih, Şehremini Mah.,2,1,80,27,1,180
+İstanbul,Şişli, Eskişehir Mah.,1,1,70,40,-1,200
+İstanbul,Beşiktaş, Cihannüma Mah.,1,1,85,45,5,350
+İstanbul,Beşiktaş, Etiler Mah.,1,1,75,8,0,800
+İstanbul,Şişli, Meşrutiyet Mah.,2,1,80,34,4,250
+İstanbul,Silivri, Yeni Mah.,3,1,120,1,5,225
+İstanbul,Kağıthane, Yeşilce Mah.,2,1,80,9,1,200
+İstanbul,Esenyurt, Barbaros Hayrettin Paşa Mah.,3,1,128,11,0,400
+İstanbul,Kadıköy, Merdivenköy Mah.,2,1,90,2,1,485
+İstanbul,Bakırköy, Şenlikköy Mah.,3,1,170,0,0,700
+İstanbul,Beşiktaş, Kuruçeşme Mah.,1,1,70,30,1,800
+İstanbul,Şişli, Ergenekon Mah.,1,1,40,30,4,140
+İstanbul,Şişli, Bozkurt Mah.,2,1,120,40,1,300
+İstanbul,Bahçelievler, Bahçelievler Mah.,3,1,117,0,3,600
+İstanbul,Kadıköy, Suadiye Mah.,3,1,165,31,1,550
+İstanbul,Esenyurt, Pınar Mah.,2,1,100,10,4,110
+İstanbul,Bakırköy, Şenlikköy Mah.,2,1,120,30,0,400
+İstanbul,Beykoz, Rüzgarlıbahçe Mah.,3,1,100,20,0,250
+İstanbul,Sancaktepe, Veysel Karani Mah.,1,1,87,5,5,320
+İstanbul,Eyüpsultan, Esentepe Mah.,3,1,156,10,5,280
+İstanbul,Kağıthane, Ortabayır Mah.,2,1,60,10,5,260
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,90,36,5,380
+İstanbul,Çekmeköy, Nişantepe Mah.,1,1,77,4,0,325
+İstanbul,Başakşehir, Başakşehir Mah.,1,1,44,7,2,255
+İstanbul,Esenyurt, Sultaniye Mah.,1,1,95,8,4,150
+İstanbul,Sancaktepe, Emek Mah.,1,1,68,5,6,290
+İstanbul,Maltepe, Altayçeşme Mah.,3,1,95,17,0,390
+İstanbul,Gaziosmanpaşa, Bağlarbaşı Mah.,1,1,56,2,2,200
+İstanbul,Küçükçekmece, Halkalı Merkez Mah.,3,1,100,30,0,90
+İstanbul,Pendik, Velibaba Mah.,2,1,110,11,4,260
+İstanbul,Sancaktepe, Sarıgazi Mah.,2,1,74,15,4,250
+İstanbul,Esenyurt, Hürriyet Mah.,4,1,170,10,5,225
+İstanbul,Şişli, İnönü Mah.,2,1,80,0,8,340
+İstanbul,Esenyurt, Piri Reis Mah.,1,1,40,10,2,105
+İstanbul,Küçükçekmece, Cumhuriyet Mah.,2,1,100,25,3,200
+İstanbul,Bakırköy, Yenimahalle Mah.,2,1,80,50,3,220
+İstanbul,Beşiktaş, Vişnezade Mah.,3,1,165,40,4,970
+İstanbul,Büyükçekmece, Fatih Mah.,2,1,140,25,2,320
+İstanbul,Üsküdar, Barbaros Mah.,3,1,110,25,2,420
+İstanbul,Üsküdar, Beylerbeyi Mah.,3,1,105,40,3,550
+İstanbul,Beyoğlu, Pürtelaş Hasan Efendi Mah.,2,1,90,34,1,300
+İstanbul,Büyükçekmece, Murat Çeşme Mah.,2,1,110,10,4,200
+İstanbul,Pendik, Çamçeşme Mah.,1,1,65,13,4,250
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,145,35,4,400
+İstanbul,Başakşehir, Bahçeşehir 2. Kısım Mah.,3,1,180,10,-2,600
+İstanbul,Gaziosmanpaşa, Yeni Mahalle Mah.,3,1,120,9,2,280
+İstanbul,Eyüpsultan, Nişancı Mah.,2,1,130,14,0,275
+İstanbul,Pendik, Kaynarca Mah.,2,1,110,29,6,350
+İstanbul,Kağıthane, Emniyet Evleri Mah.,2,1,82,5,2,380
+İstanbul,Ataşehir, Örnek Mah.,2,1,85,7,1,350
+İstanbul,Bahçelievler, Bahçelievler Mah.,3,1,135,3,0,450
+İstanbul,Esenyurt, Yeşilkent Mah.,2,1,85,9,7,170
+İstanbul,Tuzla, İstasyon Mah.,2,1,93,12,2,400
+İstanbul,Esenyurt, Piri Reis Mah.,1,1,90,9,2,150
+İstanbul,Sarıyer, Ayazağa Mah.,1,1,69,9,1,325
+İstanbul,Kartal, Kordonboyu Mah.,1,1,72,15,1,380
+İstanbul,Bahçelievler, Soğanlı Mah.,1,1,75,7,1,210
+İstanbul,Beşiktaş, Ortaköy Mah.,3,1,130,31,3,750
+İstanbul,Ümraniye, Mehmet Akif Mah.,3,1,110,25,0,320
+İstanbul,Pendik, Yenişehir Mah.,1,1,65,7,4,250
+İstanbul,Küçükçekmece, Cennet Mah.,2,1,100,30,2,205
+İstanbul,Kağıthane, Talatpaşa Mah.,1,1,70,25,2,170
+İstanbul,Sancaktepe, Abdurrahmangazi Mah.,2,1,120,8,2,420
+İstanbul,Maltepe, İdealtepe Mah.,1,1,130,32,4,230
+İstanbul,Avcılar, Cihangir Mah.,2,1,120,25,3,200
+İstanbul,Büyükçekmece, Atatürk Mah.,3,1,180,25,2,450
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,100,1,1,550
+İstanbul,Silivri, Alipaşa Mah.,2,1,115,0,3,180
+İstanbul,Kadıköy, Erenköy Mah.,3,1,135,38,4,670
+İstanbul,Sarıyer, Kireçburnu Mah.,2,1,95,31,0,500
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,70,0,1,400
+İstanbul,Şişli, 19 Mayıs Mah.,4,1,160,30,4,500
+İstanbul,Maltepe, Zümrütevler Mah.,2,1,95,21,3,230
+İstanbul,Arnavutköy, Arnavutköy Merkez Mah.,2,1,95,2,3,225
+İstanbul,Kartal, Yakacık Çarşı Mah.,3,1,100,25,7,280
+İstanbul,Küçükçekmece, Fatih Mah.,1,1,89,4,3,400
+İstanbul,Şile, Ahmetli Mah.,1,1,45,5,0,255
+İstanbul,Kadıköy, Erenköy Mah.,3,1,145,6,2,760
+İstanbul,Sarıyer, Zekeriyaköy Mah.,4,1,165,31,4,800
+İstanbul,Maltepe, Zümrütevler Mah.,3,1,100,25,7,275
+İstanbul,Bahçelievler, Soğanlı Mah.,2,1,95,35,2,155
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,65,4,2,270
+İstanbul,Bakırköy, Şenlikköy Mah.,3,1,160,32,3,720
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,55,30,1,180
+İstanbul,Büyükçekmece, Atatürk Mah.,2,1,110,20,3,225
+İstanbul,Kadıköy, Osmanağa Mah.,1,1,70,25,4,370
+İstanbul,Pendik, Kaynarca Mah.,3,1,155,29,2,240
+İstanbul,Pendik, Yenişehir Mah.,2,1,114,5,5,425
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,95,15,0,190
+İstanbul,Kadıköy, Caddebostan Mah.,3,1,140,4,3,1150
+İstanbul,Esenyurt, Üçevler Mah.,2,1,90,5,1,150
+İstanbul,Üsküdar, Kandilli Mah.,3,1,140,0,2,700
+İstanbul,Esenyurt, Talatpaşa Mah.,1,1,80,7,5,100
+İstanbul,Esenyurt, Koza Mah.,3,1,170,12,7,290
+İstanbul,Beylikdüzü, Kavaklı Mah.,1,1,85,6,1,190
+İstanbul,Beylikdüzü, Adnan Kahveci Mah.,3,1,180,22,4,250
+İstanbul,Küçükçekmece, Atakent Mah.,3,1,120,25,1,450
+İstanbul,Bahçelievler, Yenibosna Merkez Mah.,4,1,190,11,3,800
+İstanbul,Başakşehir, Kayabaşı Mah.,2,1,90,5,5,285
+İstanbul,Başakşehir, Başak Mah.,2,1,65,0,2,200
+İstanbul,Esenyurt, Güzelyurt Mah.,2,1,90,14,2,160
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,75,20,5,200
+İstanbul,Kağıthane, Merkez Mah.,2,1,110,1,3,740
+İstanbul,Beylikdüzü, Marmara Mah.,3,1,140,1,4,650
+İstanbul,Beyoğlu, Firuzağa Mah.,3,1,170,53,2,600
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,75,36,0,220
+İstanbul,Beylikdüzü, Adnan Kahveci Mah.,2,1,100,14,7,200
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,76,3,0,265
+İstanbul,Avcılar, Ambarlı Mah.,2,1,90,6,1,200
+İstanbul,Bahçelievler, Soğanlı Mah.,3,1,130,28,1,210
+İstanbul,Şişli, Fulya Mah.,2,1,90,35,4,400
+İstanbul,Çekmeköy, Merkez Mah.,2,1,80,1,1,220
+İstanbul,Kağıthane, Merkez Mah.,1,1,60,5,2,200
+İstanbul,Kağıthane, Sultan Selim Mah.,2,1,120,29,4,200
+İstanbul,Çekmeköy, Mehmet Akif Mah.,2,1,80,15,1,250
+İstanbul,Fatih, Mevlanakapı Mah.,2,1,75,40,5,150
+İstanbul,Üsküdar, Valide-i Atik Mah.,1,1,70,0,3,320
+İstanbul,Sarıyer, Maslak Mah.,1,1,85,12,7,450
+İstanbul,Fatih, Seyyid Ömer Mah.,2,1,75,40,3,165
+İstanbul,Avcılar, Yeşilkent Mah.,2,1,120,20,1,130
+İstanbul,Zeytinburnu, Sümer Mah.,2,1,85,0,1,250
+İstanbul,Maltepe, Yalı Mah.,2,1,75,1,2,300
+İstanbul,Beykoz, Çubuklu Mah.,1,1,55,20,0,135
+İstanbul,Fatih, Yavuz Sultan Selim Mah.,2,1,100,28,2,245
+İstanbul,Beylikdüzü, Adnan Kahveci Mah.,2,1,85,4,2,200
+İstanbul,Bakırköy, Kartaltepe Mah.,3,1,125,40,1,340
+İstanbul,Güngören, Abdurrahman Nafiz Gürman Mah.,3,1,135,30,-2,350
+İstanbul,Maltepe, Altayçeşme Mah.,3,1,100,31,5,320
+İstanbul,Üsküdar, Burhaniye Mah.,3,1,155,25,3,275
+İstanbul,Beşiktaş, Levent Mah.,1,1,55,25,2,300
+İstanbul,Kartal, Kordonboyu Mah.,2,1,90,20,7,300
+İstanbul,Başakşehir, Altınşehir Mah.,2,1,90,3,0,120
+İstanbul,Üsküdar, Barbaros Mah.,3,1,138,30,2,350
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,3,1,130,26,5,250
+İstanbul,Sarıyer, Maslak Mah.,1,1,90,10,8,500
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,2,1,200,15,0,1100
+İstanbul,Tuzla, Cami Mah.,1,1,70,12,0,350
+İstanbul,Beşiktaş, Kültür Mah.,3,1,125,38,2,750
+İstanbul,Gaziosmanpaşa, Bağlarbaşı Mah.,2,1,105,20,0,160
+İstanbul,Beyoğlu, Pürtelaş Hasan Efendi Mah.,2,1,80,35,1,600
+İstanbul,Beşiktaş, Muradiye Mah.,2,1,60,50,-1,150
+İstanbul,Şişli, Fulya Mah.,2,1,110,24,3,350
+İstanbul,Kadıköy, Osmanağa Mah.,2,1,100,30,3,275
+İstanbul,Beyoğlu, Sütlüce Mah.,2,1,80,2,2,120
+İstanbul,Üsküdar, Bulgurlu Mah.,3,1,120,27,3,365
+İstanbul,Beşiktaş, Akat Mah.,3,1,110,50,2,500
+İstanbul,Maltepe, Bağlarbaşı Mah.,2,1,80,30,5,250
+İstanbul,Beşiktaş, Yıldız Mah.,2,1,120,40,1,280
+İstanbul,Beyoğlu, Kulaksız Mah.,2,1,75,35,2,200
+İstanbul,Bahçelievler, Hürriyet Mah.,1,1,45,10,1,200
+İstanbul,Beyoğlu, Cihangir Mah.,2,1,95,41,3,450
+İstanbul,Kağıthane, Çağlayan Mah.,2,1,75,7,1,280
+İstanbul,Beyoğlu, Kaptanpaşa Mah.,2,1,80,31,5,175
+İstanbul,Kadıköy, 19 Mayıs Mah.,2,1,70,4,7,480
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,1,1,75,24,5,150
+İstanbul,Kadıköy, Caferağa Mah.,2,1,125,50,5,475
+İstanbul,Fatih, Balat Mah.,2,1,85,30,1,200
+İstanbul,Sarıyer, Zekeriyaköy Mah.,3,1,165,26,2,550
+İstanbul,Kağıthane, Çeliktepe Mah.,2,1,71,20,2,110
+İstanbul,Fatih, Haseki Sultan Mah.,2,1,110,50,2,250
+İstanbul,Sarıyer, Demirciköy Mah.,3,1,120,1,2,350
+İstanbul,Küçükçekmece, İnönü Mah.,1,1,66,1,3,280
+İstanbul,Kadıköy, Merdivenköy Mah.,2,1,90,0,1,500
+İstanbul,Arnavutköy, Hadımköy Mah.,2,1,85,13,1,130
+İstanbul,Güngören, Tozkoparan Mah.,1,1,70,33,0,150
+İstanbul,Şişli, Meşrutiyet Mah.,3,1,110,25,5,400
+İstanbul,Bahçelievler, Bahçelievler Mah.,3,1,119,45,1,290
+İstanbul,Kağıthane, Ortabayır Mah.,2,1,85,38,5,160
+İstanbul,Beyoğlu, Ömer Avni Mah.,3,1,120,3,2,480
+İstanbul,Şişli, Gülbahar Mah.,1,1,65,26,-2,135
+İstanbul,Bahçelievler, Cumhuriyet Mah.,2,1,100,28,2,250
+İstanbul,Gaziosmanpaşa, Kazım Karabekir Mah.,2,1,90,25,0,140
+İstanbul,Esenyurt, Zafer Mah.,2,1,95,6,6,250
+İstanbul,Maltepe, Altıntepe Mah.,3,1,120,40,4,340
+İstanbul,Şişli, Fulya Mah.,3,1,120,25,5,525
+İstanbul,Gaziosmanpaşa, Yıldıztabya Mah.,1,1,65,4,1,200
+İstanbul,Beylikdüzü, Cumhuriyet Mah.,3,1,178,25,3,500
+İstanbul,Kadıköy, Göztepe Mah.,2,1,90,1,3,650
+İstanbul,Pendik, Orhangazi Mah.,3,1,145,31,1,200
+İstanbul,Kağıthane, Çeliktepe Mah.,3,1,152,10,3,420
+İstanbul,Küçükçekmece, Yeşilova Mah.,3,1,120,25,6,200
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,75,0,-1,540
+İstanbul,Sarıyer, Yeniköy Mah.,2,1,105,30,2,450
+İstanbul,Kadıköy, Feneryolu Mah.,3,1,125,7,3,825
+İstanbul,Kağıthane, Talatpaşa Mah.,2,1,75,5,4,350
+İstanbul,Kadıköy, Göztepe Mah.,2,1,80,5,8,690
+İstanbul,Şişli, Gülbahar Mah.,2,1,75,9,1,205
+İstanbul,Maltepe, Fındıklı Mah.,2,1,90,8,1,235
+İstanbul,Beylikdüzü, Kavaklı Mah.,2,1,130,6,4,230
+İstanbul,Kadıköy, Suadiye Mah.,4,1,165,26,6,990
+İstanbul,Bakırköy, Zuhuratbaba Mah.,2,1,85,0,2,580
+İstanbul,Avcılar, Cihangir Mah.,2,1,80,15,0,145
+İstanbul,Sarıyer, Ayazağa Mah.,3,1,151,30,5,325
+İstanbul,Beyoğlu, Örnektepe Mah.,2,1,85,1,-1,360
+İstanbul,Pendik, Bahçelievler Mah.,2,1,80,10,3,280
+İstanbul,Kadıköy, Caferağa Mah.,2,1,100,35,3,530
+İstanbul,Esenyurt, Mehterçeşme Mah.,1,1,80,0,2,135
+İstanbul,Eyüpsultan, Karadolap Mah.,2,1,65,30,0,140
+İstanbul,Beyoğlu, Pürtelaş Hasan Efendi Mah.,1,1,90,39,5,1050
+İstanbul,Kadıköy, Kozyatağı Mah.,3,1,150,16,5,800
+İstanbul,Beşiktaş, Etiler Mah.,2,1,100,50,3,430
+İstanbul,Bağcılar, Mahmutbey Mah.,1,1,65,0,5,250
+İstanbul,Fatih, Mevlanakapı Mah.,2,1,68,35,1,130
+İstanbul,Üsküdar, Güzeltepe Mah.,3,1,145,4,4,720
+İstanbul,Beykoz, Kavacık Mah.,2,1,75,30,1,350
+İstanbul,Şişli, 19 Mayıs Mah.,2,1,80,30,3,450
+İstanbul,Bayrampaşa, Yıldırım Mah.,2,1,100,15,1,250
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,95,31,1,420
+İstanbul,Sarıyer, İstinye Mah.,2,1,70,23,3,270
+İstanbul,Şişli, Paşa Mah.,3,1,145,25,4,220
+İstanbul,Maltepe, Çınar Mah.,2,1,120,33,4,375
+İstanbul,Beyoğlu, Firuzağa Mah.,1,1,100,47,2,450
+İstanbul,Şişli, Kuştepe Mah.,3,1,135,20,7,300
+İstanbul,Beşiktaş, Gayrettepe Mah.,3,1,154,45,2,580
+İstanbul,Sarıyer, Reşitpaşa Mah.,2,1,100,25,0,200
+İstanbul,Avcılar, Cihangir Mah.,1,1,90,0,5,195
+İstanbul,Eyüpsultan, Alibeyköy Mah.,1,1,63,0,3,250
+İstanbul,Kağıthane, Gürsel Mah.,2,1,65,15,0,180
+İstanbul,Beylikdüzü, Dereağzı Mah.,3,1,145,4,3,300
+İstanbul,Kağıthane, Çeliktepe Mah.,2,1,70,6,-1,200
+İstanbul,Şişli, Eskişehir Mah.,2,1,90,5,0,300
+İstanbul,Zeytinburnu, Beştelsiz Mah.,1,1,56,28,1,120
+İstanbul,Üsküdar, Kuzguncuk Mah.,1,1,80,35,0,180
+İstanbul,Şişli, Meşrutiyet Mah.,1,1,77,25,2,380
+İstanbul,Şişli, Merkez Mah.,1,1,42,5,2,420
+İstanbul,Ataşehir, Kayışdağı Mah.,1,1,50,12,1,250
+İstanbul,Şişli, Paşa Mah.,4,1,135,11,3,400
+İstanbul,Sarıyer, İstinye Mah.,2,1,100,40,2,500
+İstanbul,Bahçelievler, Fevzi Çakmak Mah.,2,1,78,40,2,165
+İstanbul,Kartal, Cumhuriyet Mah.,3,1,120,29,1,215
+İstanbul,Şişli, Mecidiyeköy Mah.,1,1,65,17,1,180
+İstanbul,Küçükçekmece, Gültepe Mah.,2,1,80,30,1,160
+İstanbul,Eyüpsultan, Rami Cuma Mah.,2,1,95,20,2,250
+İstanbul,Kartal, Soğanlık Yeni Mah.,1,1,55,25,-1,240
+İstanbul,Sancaktepe, Osmangazi Mah.,3,1,165,30,3,200
+İstanbul,Beykoz, Çubuklu Mah.,2,1,80,10,0,80
+İstanbul,Beykoz, Çamlıbahçe Mah.,3,1,105,31,0,200
+İstanbul,Büyükçekmece, Atatürk Mah.,4,1,200,13,1,680
+İstanbul,Şişli, Kuştepe Mah.,2,1,95,20,7,250
+İstanbul,Sarıyer, Ferahevler Mah.,2,1,135,28,2,480
+İstanbul,Beşiktaş, Dikilitaş Mah.,2,1,90,28,3,400
+İstanbul,Eyüpsultan, Mimar Sinan Mah.,1,1,91,1,1,500
+İstanbul,Kadıköy, Fenerbahçe Mah.,3,1,140,7,4,850
+İstanbul,Beyoğlu, Asmalı Mescit Mah.,1,1,80,30,4,270
+İstanbul,Maltepe, Fındıklı Mah.,2,1,100,10,5,210
+İstanbul,Kağıthane, Yahya Kemal Mah.,1,1,55,30,1,125
+İstanbul,Esenyurt, Akçaburgaz Mah.,2,1,70,5,0,120
+İstanbul,Kadıköy, Kozyatağı Mah.,2,1,90,38,1,320
+İstanbul,Kadıköy, Rasimpaşa Mah.,2,1,85,45,3,400
+İstanbul,Tuzla, Postane Mah.,2,1,90,0,4,330
+İstanbul,Kartal, Kordonboyu Mah.,1,1,71,5,8,454
+İstanbul,Şişli, Merkez Mah.,1,1,55,4,-1,260
+İstanbul,Beşiktaş, Türkali Mah.,3,1,145,31,2,450
+İstanbul,Kadıköy, Suadiye Mah.,2,1,90,0,5,650
+İstanbul,Kağıthane, Seyrantepe Mah.,2,1,97,5,3,350
+İstanbul,Fatih, Balat Mah.,1,1,50,35,1,180
+İstanbul,Beşiktaş, Sinanpaşa Mah.,2,1,90,27,2,300
+İstanbul,Kağıthane, Telsizler Mah.,1,1,80,28,3,160
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,1,1,60,1,5,250
+İstanbul,Kağıthane, Telsizler Mah.,2,1,85,10,1,205
+İstanbul,Bakırköy, Yeşilköy Mah.,3,1,180,45,5,650
+İstanbul,Kadıköy, Sahrayı Cedit Mah.,3,1,155,27,7,650
+İstanbul,Kadıköy, Erenköy Mah.,3,1,135,8,5,380
+İstanbul,Beyoğlu, Şehit Muhtar Mah.,1,1,75,30,4,385
+İstanbul,Kartal, Atalar Mah.,3,1,110,45,0,200
+İstanbul,Çekmeköy, Mimar Sinan Mah.,3,1,125,19,2,360
+İstanbul,Şişli, Merkez Mah.,1,1,80,20,2,230
+İstanbul,Fatih, Cerrahpaşa Mah.,1,1,65,45,2,160
+İstanbul,Şişli, Yayla Mah.,2,1,95,28,3,180
+İstanbul,Kadıköy, Fenerbahçe Mah.,3,1,110,6,5,1000
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,135,37,4,380
+İstanbul,Bahçelievler, Hürriyet Mah.,2,1,80,24,0,150
+İstanbul,Bakırköy, Kartaltepe Mah.,2,1,110,38,5,255
+İstanbul,Maltepe, Başıbüyük Mah.,2,1,130,18,4,200
+İstanbul,Kağıthane, Ortabayır Mah.,2,1,110,7,3,300
+İstanbul,Şişli, Halide Edip Adıvar Mah.,2,1,110,4,4,400
+İstanbul,Esenyurt, Yeşilkent Mah.,2,1,110,11,6,160
+İstanbul,Eyüpsultan, Mimar Sinan Mah.,1,1,50,6,1,360
+İstanbul,Maltepe, Başıbüyük Mah.,2,1,110,19,1,185
+İstanbul,Şişli, Meşrutiyet Mah.,2,1,80,35,2,300
+İstanbul,Sancaktepe, Abdurrahmangazi Mah.,2,1,75,5,3,265
+İstanbul,Şişli, Fulya Mah.,2,1,90,30,3,300
+İstanbul,Ataşehir, İnönü Mah.,3,1,120,18,0,209
+İstanbul,Sarıyer, Tarabya Mah.,3,1,130,26,3,670
+İstanbul,Esenler, Oruçreis Mah.,2,1,120,28,4,120
+İstanbul,Büyükçekmece, Atatürk Mah.,2,1,80,30,1,150
+İstanbul,Şişli, Mecidiyeköy Mah.,2,1,90,30,5,250
+İstanbul,Kadıköy, Merdivenköy Mah.,3,1,115,1,7,620
+İstanbul,Maltepe, Feyzullah Mah.,2,1,110,25,2,320
+İstanbul,Esenyurt, Yeşilkent Mah.,2,1,85,8,3,170
+İstanbul,Maltepe, Cevizli Mah.,3,1,120,18,4,450
+İstanbul,Esenyurt, Cumhuriyet Mah.,1,1,95,5,5,250
+İstanbul,Üsküdar, Cumhuriyet Mah.,3,1,135,15,2,400
+İstanbul,Sarıyer, Zekeriyaköy Mah.,2,1,156,25,0,600
+İstanbul,Sultangazi, Yunus Emre Mah.,2,1,70,20,1,110
+İstanbul,Beşiktaş, Dikilitaş Mah.,1,1,70,24,1,210
+İstanbul,Esenyurt, Mehmet Akif Ersoy Mah.,2,1,110,12,1,140
+İstanbul,Küçükçekmece, Yeşilova Mah.,2,1,90,25,4,120
+İstanbul,Esenyurt, Fatih Mah.,1,1,90,2,4,130
+İstanbul,Beyoğlu, Cihangir Mah.,1,1,65,1,1,420
+İstanbul,Çekmeköy, Soğukpınar Mah.,1,1,55,4,0,135
+İstanbul,Eyüpsultan, Güzeltepe Mah.,2,1,80,5,0,200
+İstanbul,Küçükçekmece, Kartaltepe Mah.,2,1,75,30,2,180
+İstanbul,Beylikdüzü, Gürpınar Mah.,3,1,190,6,2,350
+İstanbul,Maltepe, Fındıklı Mah.,2,1,70,7,1,220
+İstanbul,Ataşehir, İçerenköy Mah.,3,1,130,28,1,280
+İstanbul,Şişli, İnönü Mah.,2,1,100,28,1,280
+İstanbul,Kartal, Soğanlık Yeni Mah.,1,1,74,15,2,270
+İstanbul,Kadıköy, Caddebostan Mah.,2,1,125,26,1,650
+İstanbul,Bakırköy, Yeşilköy Mah.,3,1,140,3,2,900
+İstanbul,Bahçelievler, Bahçelievler Mah.,2,1,95,30,2,250
+İstanbul,Güngören, Güven Mah.,3,1,122,30,4,210
+İstanbul,Avcılar, Tahtakale Mah.,3,1,159,5,0,350
+İstanbul,Kadıköy, Göztepe Mah.,2,1,90,1,2,650
+İstanbul,Kadıköy, Caferağa Mah.,3,1,140,35,4,600
+İstanbul,Avcılar, Üniversite Mah.,2,1,90,25,0,135
+İstanbul,Küçükçekmece, Fatih Mah.,1,1,89,5,6,350
+İstanbul,Beylikdüzü, Yakuplu Mah.,2,1,100,0,1,220
+İstanbul,Maltepe, Altıntepe Mah.,3,1,110,13,4,450
+İstanbul,Büyükçekmece, 19 Mayıs Mah.,3,1,135,0,3,325
+İstanbul,Üsküdar, Bahçelievler Mah.,2,1,118,3,1,410
+İstanbul,Sarıyer, Rumeli Kavağı Mah.,4,1,160,49,3,500
+İstanbul,Beşiktaş, Levazım Mah.,3,1,110,40,3,600
+İstanbul,Şişli, Gülbahar Mah.,2,1,90,19,3,220
+İstanbul,Esenyurt, Cumhuriyet Mah.,1,1,82,8,8,220
+İstanbul,Sarıyer, Çayırbaşı Mah.,3,1,140,16,5,520
+İstanbul,Esenyurt, Barbaros Hayrettin Paşa Mah.,1,1,82,6,8,220
+İstanbul,Sarıyer, Ayazağa Mah.,1,1,85,10,2,650
+İstanbul,Sarıyer, Emirgan Mah.,1,1,110,57,1,900
+İstanbul,Eyüpsultan, Göktürk Merkez Mah.,3,1,172,1,3,1100
+İstanbul,Beşiktaş, Bebek Mah.,2,1,110,40,4,1350
+İstanbul,Pendik, Yenişehir Mah.,3,1,120,22,2,260
+İstanbul,Esenyurt, Aşık Veysel Mah.,3,1,145,26,2,235
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,70,2,0,250
+İstanbul,Beyoğlu, Kadımehmet Efendi Mah.,2,1,85,15,1,190
+İstanbul,Esenyurt, Süleymaniye Mah.,2,1,85,5,1,140
+İstanbul,Kartal, Yukarı Mah.,3,1,119,40,2,229
+İstanbul,Kağıthane, Gürsel Mah.,3,1,120,30,1,280
+İstanbul,Beşiktaş, Muradiye Mah.,3,1,120,35,5,500
+İstanbul,Bahçelievler, Siyavuşpaşa Mah.,2,1,75,0,0,300
+İstanbul,Çekmeköy, Merkez Mah.,1,1,54,10,0,170
+İstanbul,Büyükçekmece, Atatürk Mah.,2,1,90,15,5,180
+İstanbul,Şişli, Kuştepe Mah.,2,1,85,4,-3,240
+İstanbul,Kağıthane, Çağlayan Mah.,2,1,90,5,2,230
+İstanbul,Kağıthane, Hamidiye Mah.,1,1,60,5,6,420
